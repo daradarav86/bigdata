@@ -1,0 +1,28 @@
+# environment.csv — 프로젝트용
+
+관심 진로: 환경, 보건, 화학, 도시계획, 기상
+
+가공본 8,856행 × 9열. 이 파일은 분석·시각화 전 학생이 전처리하는 자료입니다.
+
+## 원자료 및 준비 기준
+Chen, S. (2017). Beijing Multi-Site Air Quality. UCI. https://doi.org/10.24432/C5RK5G
+
+https://archive.ics.uci.edu/dataset/501/beijing+multi+site+air+quality+data
+
+3개 측정소의 2016년 1·4·7·10월 시간별 원 관측을 유지. 교사가 일평균으로 집계하지 않음. 실제 NA 보존.
+
+## 열 설명
+| 열 | 뜻·단위 |
+|---|---|
+| `year` | 연도2016 |
+| `month` | 월1/4/7/10 |
+| `day` | 날짜의 일 |
+| `hour` | 시각0~23 |
+| `station` | 측정소 |
+| `PM2.5` | 초미세먼지µg/m³ |
+| `PM10` | 미세먼지µg/m³ |
+| `TEMP` | 기온°C |
+| `WSPM` | 풍속m/s |
+
+## 공개 배포 조건
+CC BY 4.0. 출처·가공 사실·원조건을 함께 표시하세요. 데이터의 오류를 인위적으로 추가하지 않았습니다.
