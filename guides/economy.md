@@ -17,7 +17,10 @@ https://databank.worldbank.org/metadataglossary/world-development-indicators/ser
 | `country` | 국가 영문명 |
 | `country_code` | ISO3 코드 |
 | `year` | 2010~2024 |
-| `inflation_rate` | 전년 대비 소비자물가 상승률%, 빈칸 실제 결측 |
+| `inflation_rate` | 전년 대비 소비자물가 상승률%, 빈칸은 결측(베네수엘라 8개는 원자료 결측, 3개는 수업용으로 비움) |
+
+## 수업용 가공
+전처리 연습을 위해 원자료에 있던 값 3개를 비웠습니다: 캐나다 2021년, 인도 2012년, 대한민국 2010년의 `inflation_rate`. 베네수엘라 2017~2024년 8개는 원자료의 결측입니다.
 
 ## 공개 배포 조건
-CC BY 4.0 + World Bank 추가 이용조건 https://data.worldbank.org/summary-terms-of-use. 출처·가공 사실·원조건을 함께 표시하세요. 데이터의 오류를 인위적으로 추가하지 않았습니다.
+CC BY 4.0 + World Bank 추가 이용조건 https://data.worldbank.org/summary-terms-of-use. 출처·가공 사실·원조건을 함께 표시하세요. 원자료에서 바꾼 내용은 이 안내의 "원자료 및 준비 기준"과 "수업용 가공"에 적었습니다. 제공자가 이 가공본을 보증하거나 추천하지 않습니다.

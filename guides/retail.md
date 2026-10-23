@@ -22,5 +22,8 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 | `UnitPrice` | 단가GBP |
 | `Country` | 고객 거주국가 |
 
+## 수업용 가공
+전처리 연습을 위해 원자료에 없던 빈칸을 넣었습니다: `Quantity` 61개, `UnitPrice` 61개. `Description`의 빈칸은 원자료의 결측입니다.
+
 ## 공개 배포 조건
-CC BY 4.0 https://creativecommons.org/licenses/by/4.0/. 출처·가공 사실·원조건을 함께 표시하세요. 데이터의 오류를 인위적으로 추가하지 않았습니다.
+CC BY 4.0 https://creativecommons.org/licenses/by/4.0/. 출처·가공 사실·원조건을 함께 표시하세요. 원자료에서 바꾼 내용은 이 안내의 "원자료 및 준비 기준"과 "수업용 가공"에 적었습니다. 제공자가 이 가공본을 보증하거나 추천하지 않습니다.
