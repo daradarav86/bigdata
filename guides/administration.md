@@ -2,7 +2,7 @@
 
 관심 진로: 행정, 공무원, 정책, 법·정치외교, 공공기관
 
-가공본 489행 × 7열. 이 파일은 분석·시각화 전 학생이 전처리하는 자료입니다.
+가공본 486행 × 7열. 이 파일은 분석·시각화 전 학생이 전처리하는 자료입니다.
 
 ## 원자료 및 준비 기준
 Worldwide Governance Indicators, 2026 Update, World Bank (www.govindicators.org). Governance score (0-100): GOV_WGI_GE.SC, GOV_WGI_RQ.SC, GOV_WGI_RL.SC, GOV_WGI_CC.SC. Retrieved 2026-10-24 via World Bank API (source 3).
@@ -26,7 +26,6 @@ https://www.worldbank.org/en/publication/worldwide-governance-indicators
 전처리 연습을 위해 원자료를 다음과 같이 바꿨습니다.
 - 빈칸: `gov_effectiveness` 5개, `rule_of_law` 5개
 - 있을 수 없는 값: `control_of_corruption` -1 3개, `regulatory_quality` 999 3개(점수 범위 0~100 밖)
-- 중복 행: 3행을 한 번 더 넣음
 
 원자료 결측: `gov_effectiveness` 26, `regulatory_quality` 28, `rule_of_law` 15, `control_of_corruption` 14 (South Sudan, Kosovo, Montenegro).
 

@@ -2,7 +2,7 @@
 
 관심 진로: 컴퓨터공학, 소프트웨어 개발, 인공지능, 정보보안, IT 산업
 
-가공본 2,005행 × 14열. 이 파일은 분석·시각화 전 학생이 전처리하는 자료입니다.
+가공본 2,000행 × 14열. 이 파일은 분석·시각화 전 학생이 전처리하는 자료입니다.
 
 ## 원자료 및 준비 기준
 Stack Overflow Annual Developer Survey 2025 (results.csv, 응답 49,191건). Retrieved 2026-10-24.
@@ -33,7 +33,6 @@ https://survey.stackoverflow.co/ · https://github.com/StackExchange/Survey/tree
 전처리 연습을 위해 원자료를 다음과 같이 바꿨습니다.
 - 빈칸: `Age` 6개
 - 있을 수 없는 값: `YearsCode` -1 5개, `JobSat` 99 5개(만족도 범위 0~10 밖)
-- 중복 행: 응답 5개를 한 번 더 넣음(같은 `ResponseId`가 두 번 나옴)
 
 그 밖의 빈칸은 원자료의 무응답입니다. 표본 2,000건 기준 원자료 빈칸 수: `EdLevel` 32, `YearsCode` 265, `WorkExp` 255, `DevType` 226, `OrgSize` 603, `RemoteWork` 619, `Country` 577, `ConvertedCompYearly` 1,036, `LanguageHaveWorkedWith` 714, `AISelect` 633, `JobSat` 920.
 

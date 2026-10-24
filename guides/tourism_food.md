@@ -2,7 +2,7 @@
 
 관심 진로: 관광, 외식·조리, 식품, 호텔·서비스경영, 소비자 분석
 
-가공본 1,165행 × 12열. 이 파일은 분석·시각화 전 학생이 전처리하는 자료입니다.
+가공본 1,161행 × 12열. 이 파일은 분석·시각화 전 학생이 전처리하는 자료입니다.
 
 ## 원자료 및 준비 기준
 Ponce Medellín, R. & González Serna, J. G. (2011). Restaurant & consumer data. UCI. https://doi.org/10.24432/C5DP41 (기증: Vargas-Govea, B. & González Serna, J. G.)
@@ -31,9 +31,8 @@ https://archive.ics.uci.edu/dataset/232/restaurant+consumer+data
 전처리 연습을 위해 원자료를 다음과 같이 바꿨습니다.
 - 빈칸: `food_rating` 6개, `service_rating` 6개
 - 있을 수 없는 값: `rating` 9 5개(평가 범위 0~2 밖)
-- 중복 행: 평가 4건을 한 번 더 넣음
 
-`city`의 `?` 114행, `budget`의 `?` 69행, `Rcuisine` 빈칸 288행은 원자료의 결측입니다(중복 행 추가 전 기준). pandas는 `?`를 결측으로 읽지 않으므로 직접 바꿔야 합니다.
+`city`의 `?` 114행, `budget`의 `?` 69행, `Rcuisine` 빈칸 288행은 원자료의 결측입니다. pandas는 `?`를 결측으로 읽지 않으므로 직접 바꿔야 합니다.
 
 ## 공개 배포 조건
 CC BY 4.0 https://creativecommons.org/licenses/by/4.0/. 출처·가공 사실·원조건을 함께 표시하세요. 원자료에서 바꾼 내용은 이 안내의 "원자료 및 준비 기준"과 "수업용 가공"에 적었습니다. 제공자가 이 가공본을 보증하거나 추천하지 않습니다.

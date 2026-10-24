@@ -1,7 +1,7 @@
 ﻿userID,budget,placeID,name,city,Rcuisine,price,alcohol,smoking_area,rating,food_rating,service_rating
 U1077,medium,135085,Tortas Locas Hipocampo,San Luis Potosi,Fast_Food,medium,No_Alcohol_Served,not permitted,2,2.0,2.0
 U1077,medium,135038,Restaurant la Chalita,San Luis Potosi,,medium,No_Alcohol_Served,section,2,2.0,1.0
-U1077,medium,132825,puesto de tacos,s.l.p.,Mexican,low,No_Alcohol_Served,none,2,2.0,2.0
+U1077,medium,132825,puesto de tacos,s.l.p.,Mexican,low,No_Alcohol_Served,none,9,2.0,2.0
 U1077,medium,135060,Restaurante Marisco Sam,San Luis Potosi,Seafood,medium,No_Alcohol_Served,none,1,2.0,2.0
 U1068,low,135104,vips,?,Mexican,medium,Full_Bar,not permitted,1,1.0,2.0
 U1068,low,132740,Carreton de Flautas y Migadas,Ciudad Victoria,Mexican,low,No_Alcohol_Served,permitted,0,0.0,0.0
@@ -43,7 +43,7 @@ U1082,medium,132609,Pollo_Frito_Buenos_Aires,victoria,Fast_Food,low,No_Alcohol_S
 U1082,medium,132663,tacos abi,victoria,Mexican,low,No_Alcohol_Served,none,0,0.0,0.0
 U1082,medium,132560,puesto de gorditas,victoria,Regional,low,No_Alcohol_Served,permitted,0,0.0,0.0
 U1060,medium,132564,churchs,?,,low,No_Alcohol_Served,none,2,2.0,2.0
-U1060,medium,132717,tortas hawai,?,Fast_Food,medium,No_Alcohol_Served,not permitted,2,2.0,2.0
+U1060,medium,132717,tortas hawai,?,Fast_Food,medium,No_Alcohol_Served,not permitted,9,2.0,2.0
 U1060,medium,132733,Little Cesarz,Ciudad Victoria,Pizzeria,medium,No_Alcohol_Served,not permitted,2,1.0,2.0
 U1060,medium,132740,Carreton de Flautas y Migadas,Ciudad Victoria,Mexican,low,No_Alcohol_Served,permitted,1,2.0,1.0
 U1015,medium,135071,Restaurante la Cantina,San Luis Potosi,Bar;Bar_Pub_Brewery,medium,Full_Bar,section,0,0.0,0.0
@@ -66,7 +66,7 @@ U1083,?,135046,Restaurante El Reyecito,San Luis Potosi,Fast_Food,medium,No_Alcoh
 U1108,medium,135075,Mariscos El Pescador,San Luis Potosi,Seafood,medium,No_Alcohol_Served,none,2,2.0,2.0
 U1108,medium,132572,Cafe Chaires,San Luis Potosi,Cafeteria,low,No_Alcohol_Served,not permitted,1,2.0,1.0
 U1108,medium,135074,Restaurante la Parroquia Potosina,San Luis Potosi,Contemporary,high,Wine-Beer,section,2,2.0,1.0
-U1108,medium,135028,La Virreina,San Luis Potosi,Mexican,medium,Wine-Beer,none,9,1.0,1.0
+U1108,medium,135028,La Virreina,San Luis Potosi,Mexican,medium,Wine-Beer,none,1,1.0,1.0
 U1108,medium,135085,Tortas Locas Hipocampo,San Luis Potosi,Fast_Food,medium,No_Alcohol_Served,not permitted,1,2.0,1.0
 U1108,medium,135032,Cafeteria y Restaurant El Pacifico,San Luis Potosi,Cafeteria;Contemporary,medium,Wine-Beer,section,2,1.0,2.0
 U1108,medium,135086,Mcdonalds Parque Tangamanga,San Luis Potosi,Burgers;Fast_Food,medium,No_Alcohol_Served,not permitted,1,1.0,0.0
@@ -106,7 +106,7 @@ U1017,medium,134975,Rincon del Bife,?,,high,Full_Bar,section,2,1.0,1.0
 U1017,medium,134983,Restaurant and Bar and Clothesline Carlos N Charlies,Cuernavaca,Bar;Bar_Pub_Brewery,high,Full_Bar,section,0,0.0,1.0
 U1066,low,132767,Restaurant Familiar El Chino,Jiutepec,Vietnamese,medium,Wine-Beer,permitted,1,2.0,1.0
 U1100,medium,135021,Subway,Cuernavaca,Fast_Food,low,No_Alcohol_Served,not permitted,2,1.0,0.0
-U1100,medium,134996,Sanborns Casa Piedra,Cuernavaca,,medium,Wine-Beer,only at bar,2,1.0,
+U1100,medium,134996,Sanborns Casa Piedra,Cuernavaca,,medium,Wine-Beer,only at bar,2,1.0,1.0
 U1066,low,135013,Giovannis,Jiutepec,,low,No_Alcohol_Served,none,1,2.0,2.0
 U1100,medium,135000,Restaurant los Pinos,Cuernavaca,,medium,No_Alcohol_Served,none,2,1.0,1.0
 U1100,medium,135001,Vips,Cuernavaca,,medium,Wine-Beer,none,2,2.0,2.0
@@ -178,7 +178,7 @@ U1083,?,135072,Sushi Itto,San Luis Potosi,Japanese,medium,No_Alcohol_Served,none
 U1083,?,135074,Restaurante la Parroquia Potosina,San Luis Potosi,Contemporary,high,Wine-Beer,section,2,2.0,2.0
 U1083,?,132755,La Estrella de Dimas,San Luis Potosi,Mexican,medium,No_Alcohol_Served,none,2,2.0,2.0
 U1083,?,135044,Restaurant Wu Zhuo Yi,San Luis Potosi,Chinese,medium,No_Alcohol_Served,none,1,2.0,2.0
-U1055,medium,135048,Restaurante Bar Fu-hao,San Luis Potosi,Bar,high,Wine-Beer,none,2,2.0,2.0
+U1055,medium,135048,Restaurante Bar Fu-hao,San Luis Potosi,Bar,high,Wine-Beer,none,2,,2.0
 U1055,medium,135047,Restaurante Casa de las Flores,San Luis Potosi,,high,Wine-Beer,section,2,2.0,2.0
 U1055,medium,132754,Cabana Huasteca,San Luis Potosi,Mexican,medium,No_Alcohol_Served,none,2,2.0,2.0
 U1055,medium,132825,puesto de tacos,s.l.p.,Mexican,low,No_Alcohol_Served,none,2,2.0,2.0
@@ -217,8 +217,7 @@ U1081,low,135027,Restaurant Orizatlan,San Luis Potosi,Mexican,medium,Wine-Beer,n
 U1001,medium,132830,Rincon Huasteco,?,,low,No_Alcohol_Served,none,1,1.0,1.0
 U1001,medium,132825,puesto de tacos,s.l.p.,Mexican,low,No_Alcohol_Served,none,2,2.0,1.0
 U1014,medium,135076,Restaurante Pueblo Bonito,San Luis Potosi,,high,Wine-Beer,none,1,2.0,1.0
-U1088,medium,132830,Rincon Huasteco,?,,low,No_Alcohol_Served,none,0,2.0,2.0
-U1088,medium,135108,Potzocalli,San Luis Potosi,,low,No_Alcohol_Served,none,2,2.0,2.0
+U1088,medium,132830,Rincon Huasteco,?,,low,No_Alcohol_Served,none,0,,2.0
 U1088,medium,135108,Potzocalli,San Luis Potosi,,low,No_Alcohol_Served,none,2,2.0,2.0
 U1014,medium,135069,Abondance Restaurante Bar,San Luis Potosi,Bar,low,Wine-Beer,none,1,0.0,1.0
 U1014,medium,135050,Restaurante la Estrella de Dima,Soledad,,high,Wine-Beer,none,2,2.0,2.0
@@ -294,7 +293,7 @@ U1124,low,135050,Restaurante la Estrella de Dima,Soledad,,high,Wine-Beer,none,0,
 U1018,low,135043,pizza clasica,Soledad,Fast_Food;Pizzeria,medium,No_Alcohol_Served,none,0,0.0,0.0
 U1125,low,135043,pizza clasica,Soledad,Fast_Food;Pizzeria,medium,No_Alcohol_Served,none,1,1.0,2.0
 U1125,low,135081,El Club,San Luis Potosi,,medium,No_Alcohol_Served,none,0,0.0,2.0
-U1125,low,135076,Restaurante Pueblo Bonito,San Luis Potosi,,high,Wine-Beer,none,9,1.0,1.0
+U1125,low,135076,Restaurante Pueblo Bonito,San Luis Potosi,,high,Wine-Beer,none,1,1.0,1.0
 U1018,low,135082,la Estrella de Dimas,San Luis Potosi,,medium,No_Alcohol_Served,none,2,2.0,2.0
 U1125,low,135050,Restaurante la Estrella de Dima,Soledad,,high,Wine-Beer,none,2,1.0,1.0
 U1125,low,135066,Restaurante Guerra,San Luis Potosi,,high,Wine-Beer,section,1,0.0,1.0
@@ -350,7 +349,7 @@ U1116,medium,135038,Restaurant la Chalita,San Luis Potosi,,medium,No_Alcohol_Ser
 U1116,medium,135085,Tortas Locas Hipocampo,San Luis Potosi,Fast_Food,medium,No_Alcohol_Served,not permitted,2,2.0,2.0
 U1116,medium,135052,La Cantina Restaurante,San Luis Potosi,Bar;Bar_Pub_Brewery,high,Full_Bar,none,2,2.0,2.0
 U1116,medium,135025,El Rincon de San Francisco,San Luis Potosi,Mexican,medium,No_Alcohol_Served,none,2,2.0,2.0
-U1116,medium,135059,Restaurant Bar Hacienda los Martinez,San Luis Potosi,Bar,medium,Wine-Beer,section,0,2.0,
+U1116,medium,135059,Restaurant Bar Hacienda los Martinez,San Luis Potosi,Bar,medium,Wine-Beer,section,0,2.0,2.0
 U1116,medium,135027,Restaurant Orizatlan,San Luis Potosi,Mexican,medium,Wine-Beer,none,0,2.0,2.0
 U1116,medium,132825,puesto de tacos,s.l.p.,Mexican,low,No_Alcohol_Served,none,2,2.0,2.0
 U1116,medium,135030,Preambulo Wifi Zone Cafe,San Luis Potosi,Cafe-Coffee_Shop;Cafeteria,medium,No_Alcohol_Served,none,1,2.0,2.0
@@ -375,7 +374,7 @@ U1075,medium,135057,El Herradero Restaurante and Bar,San Luis Potosi,Bar,medium,
 U1075,medium,132830,Rincon Huasteco,?,,low,No_Alcohol_Served,none,1,1.0,1.0
 U1075,medium,135062,Restaurante El Cielo Potosino,San Luis Potosi,,medium,No_Alcohol_Served,none,1,0.0,1.0
 U1075,medium,135039,Restaurant de Mariscos de Picon,San Luis Potosi,Seafood,low,No_Alcohol_Served,section,2,2.0,0.0
-U1075,medium,135051,Restaurante Versalles,San Luis Potosi,,low,No_Alcohol_Served,section,1,1.0,
+U1075,medium,135051,Restaurante Versalles,San Luis Potosi,,low,No_Alcohol_Served,section,1,1.0,1.0
 U1075,medium,135041,Luna Cafe,San Luis Potosi,Bar;Cafeteria,medium,Wine-Beer,none,1,1.0,0.0
 U1115,low,135057,El Herradero Restaurante and Bar,San Luis Potosi,Bar,medium,Wine-Beer,section,2,2.0,2.0
 U1115,low,135082,la Estrella de Dimas,San Luis Potosi,,medium,No_Alcohol_Served,none,2,2.0,2.0
@@ -413,8 +412,8 @@ U1132,?,135051,Restaurante Versalles,San Luis Potosi,,low,No_Alcohol_Served,sect
 U1132,?,135027,Restaurant Orizatlan,San Luis Potosi,Mexican,medium,Wine-Beer,none,2,1.0,0.0
 U1005,medium,135050,Restaurante la Estrella de Dima,Soledad,,high,Wine-Beer,none,1,2.0,1.0
 U1005,medium,135076,Restaurante Pueblo Bonito,San Luis Potosi,,high,Wine-Beer,none,2,2.0,1.0
-U1005,medium,132830,Rincon Huasteco,?,,low,No_Alcohol_Served,none,9,1.0,0.0
-U1005,medium,135066,Restaurante Guerra,San Luis Potosi,,high,Wine-Beer,section,2,1.0,1.0
+U1005,medium,132830,Rincon Huasteco,?,,low,No_Alcohol_Served,none,1,1.0,0.0
+U1005,medium,135066,Restaurante Guerra,San Luis Potosi,,high,Wine-Beer,section,2,1.0,
 U1005,medium,135041,Luna Cafe,San Luis Potosi,Bar;Cafeteria,medium,Wine-Beer,none,1,1.0,1.0
 U1005,medium,135057,El Herradero Restaurante and Bar,San Luis Potosi,Bar,medium,Wine-Beer,section,1,2.0,1.0
 U1005,medium,135043,pizza clasica,Soledad,Fast_Food;Pizzeria,medium,No_Alcohol_Served,none,0,2.0,0.0
@@ -479,14 +478,13 @@ U1071,high,135030,Preambulo Wifi Zone Cafe,San Luis Potosi,Cafe-Coffee_Shop;Cafe
 U1114,medium,135053,La Fontana Pizza Restaurante and Cafe,San Luis Potosi,Cafeteria;Fast_Food;Pizzeria,high,No_Alcohol_Served,section,0,0.0,0.0
 U1084,medium,135058,Restaurante Tiberius,San Luis Potosi,Pizzeria,medium,No_Alcohol_Served,none,1,0.0,2.0
 U1084,medium,132862,La Posada del Virrey,San Luis Potosi,International,high,Wine-Beer,none,2,2.0,2.0
-U1084,medium,135072,Sushi Itto,San Luis Potosi,Japanese,medium,No_Alcohol_Served,none,2,2.0,2.0
+U1084,medium,135072,Sushi Itto,San Luis Potosi,Japanese,medium,No_Alcohol_Served,none,9,2.0,2.0
 U1084,medium,135030,Preambulo Wifi Zone Cafe,San Luis Potosi,Cafe-Coffee_Shop;Cafeteria,medium,No_Alcohol_Served,none,2,2.0,2.0
 U1084,medium,135026,la Cantina,San Luis Potosi,Bar;Bar_Pub_Brewery,high,Full_Bar,none,2,2.0,2.0
-U1084,medium,135026,la Cantina,San Luis Potosi,Bar;Bar_Pub_Brewery,high,Full_Bar,none,2,2.0,2.0
-U1084,medium,135035,El Mundo de la Pasta,San Luis Potosi,Italian,high,No_Alcohol_Served,section,2,,2.0
+U1084,medium,135035,El Mundo de la Pasta,San Luis Potosi,Italian,high,No_Alcohol_Served,section,2,2.0,2.0
 U1084,medium,135045,Restaurante la Gran Via,San Luis Potosi,,high,Wine-Beer,none,2,2.0,2.0
 U1084,medium,132861,Carls Jr,San Luis Potosi,Burgers,medium,No_Alcohol_Served,not permitted,2,2.0,2.0
-U1084,medium,135085,Tortas Locas Hipocampo,San Luis Potosi,Fast_Food,medium,No_Alcohol_Served,not permitted,2,2.0,2.0
+U1084,medium,135085,Tortas Locas Hipocampo,San Luis Potosi,Fast_Food,medium,No_Alcohol_Served,not permitted,2,2.0,
 U1084,medium,132723,Gordas de morales,?,Mexican,medium,Full_Bar,section,1,0.0,1.0
 U1049,?,132825,puesto de tacos,s.l.p.,Mexican,low,No_Alcohol_Served,none,0,0.0,0.0
 U1049,?,135041,Luna Cafe,San Luis Potosi,Bar;Cafeteria,medium,Wine-Beer,none,0,0.0,0.0
@@ -545,7 +543,7 @@ U1079,medium,134986,Restaurant Las Mananitas,Cuernavaca,International,high,Wine-
 U1079,medium,134976,Log Yin,?,Mexican;Mediterranean;Burgers,low,No_Alcohol_Served,none,1,1.0,0.0
 U1079,medium,132768,Mariscos Tia Licha,cuernavaca,Family,medium,No_Alcohol_Served,not permitted,2,2.0,2.0
 U1079,medium,132766,Mikasa,Cuernavaca,Japanese,medium,Wine-Beer,none,1,2.0,1.0
-U1045,high,132825,puesto de tacos,s.l.p.,Mexican,low,No_Alcohol_Served,none,2,1.0,1.0
+U1045,high,132825,puesto de tacos,s.l.p.,Mexican,low,No_Alcohol_Served,none,2,1.0,
 U1045,high,135064,Restaurante El Chivero S.A. de C.V.,San Luis Potosi,,high,No_Alcohol_Served,none,0,0.0,0.0
 U1045,high,132856,Unicols Pizza,San Luis Potosi,Italian,low,Wine-Beer,none,1,2.0,2.0
 U1045,high,135085,Tortas Locas Hipocampo,San Luis Potosi,Fast_Food,medium,No_Alcohol_Served,not permitted,2,2.0,2.0
@@ -573,12 +571,12 @@ U1016,medium,135106,El Rincón de San Francisco,San Luis Potosi,Mexican,medium,W
 U1016,medium,132856,Unicols Pizza,San Luis Potosi,Italian,low,Wine-Beer,none,2,2.0,2.0
 U1016,medium,135045,Restaurante la Gran Via,San Luis Potosi,,high,Wine-Beer,none,2,2.0,2.0
 U1016,medium,135060,Restaurante Marisco Sam,San Luis Potosi,Seafood,medium,No_Alcohol_Served,none,2,2.0,2.0
-U1016,medium,135066,Restaurante Guerra,San Luis Potosi,,high,Wine-Beer,section,2,2.0,2.0
+U1016,medium,135066,Restaurante Guerra,San Luis Potosi,,high,Wine-Beer,section,2,2.0,
 U1016,medium,135085,Tortas Locas Hipocampo,San Luis Potosi,Fast_Food,medium,No_Alcohol_Served,not permitted,2,2.0,0.0
 U1016,medium,135052,La Cantina Restaurante,San Luis Potosi,Bar;Bar_Pub_Brewery,high,Full_Bar,none,2,2.0,2.0
 U1016,medium,132862,La Posada del Virrey,San Luis Potosi,International,high,Wine-Beer,none,2,2.0,2.0
 U1016,medium,135051,Restaurante Versalles,San Luis Potosi,,low,No_Alcohol_Served,section,2,2.0,0.0
-U1016,medium,135062,Restaurante El Cielo Potosino,San Luis Potosi,,medium,No_Alcohol_Served,none,2,2.0,
+U1016,medium,135062,Restaurante El Cielo Potosino,San Luis Potosi,,medium,No_Alcohol_Served,none,2,2.0,2.0
 U1047,medium,132875,shi ro ie,?,Japanese,high,Wine-Beer,section,0,0.0,0.0
 U1047,medium,132877,sirloin stockade,?,,low,No_Alcohol_Served,none,0,0.0,0.0
 U1047,medium,132884,dairy queen,?,,low,No_Alcohol_Served,none,0,0.0,0.0
@@ -669,9 +667,9 @@ U1111,medium,132870,Tortas y hamburguesas el gordo,San Luis Potosi,Burgers,low,N
 U1037,low,132851,KFC,San Luis Potosi,American;Game,low,No_Alcohol_Served,not permitted,2,2.0,1.0
 U1111,medium,132847,don burguers,slp,,low,No_Alcohol_Served,none,0,0.0,0.0
 U1111,medium,135082,la Estrella de Dimas,San Luis Potosi,,medium,No_Alcohol_Served,none,1,0.0,0.0
-U1037,low,132854,Sirlone,San Luis Potosi,International,medium,Wine-Beer,none,1,,0.0
+U1037,low,132854,Sirlone,San Luis Potosi,International,medium,Wine-Beer,none,1,2.0,0.0
 U1015,medium,132845,Cenaduria El RincÃ³n de Tlaquepaque,san luis potosi,Mexican,medium,No_Alcohol_Served,none,1,1.0,1.0
-U1015,medium,132866,Chaires,San Luis Potosi,Bakery;Cafeteria,medium,No_Alcohol_Served,not permitted,0,1.0,1.0
+U1015,medium,132866,Chaires,San Luis Potosi,Bakery;Cafeteria,medium,No_Alcohol_Served,not permitted,0,,1.0
 U1015,medium,132870,Tortas y hamburguesas el gordo,San Luis Potosi,Burgers,low,No_Alcohol_Served,not permitted,0,0.0,1.0
 U1015,medium,135054,Restaurante y Pescaderia Tampico,San Luis Potosi,Seafood,high,No_Alcohol_Served,none,1,1.0,1.0
 U1015,medium,132869,Dominos Pizza,San Luis Potosi,Pizzeria,medium,No_Alcohol_Served,not permitted,2,2.0,2.0
@@ -702,7 +700,6 @@ U1135,low,135052,La Cantina Restaurante,San Luis Potosi,Bar;Bar_Pub_Brewery,high
 U1135,low,135041,Luna Cafe,San Luis Potosi,Bar;Cafeteria,medium,Wine-Beer,none,0,0.0,0.0
 U1032,medium,132872,Pizzeria Julios,s.l.p,American,medium,No_Alcohol_Served,not permitted,1,1.0,1.0
 U1032,medium,135058,Restaurante Tiberius,San Luis Potosi,Pizzeria,medium,No_Alcohol_Served,none,2,1.0,0.0
-U1032,medium,135058,Restaurante Tiberius,San Luis Potosi,Pizzeria,medium,No_Alcohol_Served,none,2,1.0,0.0
 U1032,medium,135079,Koye Sushi,San Luis Potosi,Chinese,high,No_Alcohol_Served,none,2,2.0,0.0
 U1032,medium,135085,Tortas Locas Hipocampo,San Luis Potosi,Fast_Food,medium,No_Alcohol_Served,not permitted,1,1.0,1.0
 U1032,medium,135042,Restaurant Oriental Express,San Luis Potosi,Chinese,medium,No_Alcohol_Served,none,0,1.0,0.0
@@ -727,7 +724,7 @@ U1048,medium,135034,Michiko Restaurant Japones,San Luis Potosi,Japanese,medium,N
 U1048,medium,135048,Restaurante Bar Fu-hao,San Luis Potosi,Bar,high,Wine-Beer,none,0,1.0,0.0
 U1048,medium,135065,El angel Restaurante,San Luis Potosi,,high,Wine-Beer,section,2,2.0,0.0
 U1048,medium,132755,La Estrella de Dimas,San Luis Potosi,Mexican,medium,No_Alcohol_Served,none,2,2.0,2.0
-U1048,medium,132723,Gordas de morales,?,Mexican,medium,Full_Bar,section,2,2.0,2.0
+U1048,medium,132723,Gordas de morales,?,Mexican,medium,Full_Bar,section,2,,2.0
 U1062,medium,135085,Tortas Locas Hipocampo,San Luis Potosi,Fast_Food,medium,No_Alcohol_Served,not permitted,0,0.0,0.0
 U1062,medium,135053,La Fontana Pizza Restaurante and Cafe,San Luis Potosi,Cafeteria;Fast_Food;Pizzeria,high,No_Alcohol_Served,section,0,0.0,0.0
 U1092,medium,135071,Restaurante la Cantina,San Luis Potosi,Bar;Bar_Pub_Brewery,medium,Full_Bar,section,1,0.0,0.0
@@ -783,7 +780,7 @@ U1122,?,135058,Restaurante Tiberius,San Luis Potosi,Pizzeria,medium,No_Alcohol_S
 U1122,?,132834,Gorditas Doa Gloria,san luis potosi,Mexican,low,No_Alcohol_Served,not permitted,2,1.0,1.0
 U1122,?,132754,Cabana Huasteca,San Luis Potosi,Mexican,medium,No_Alcohol_Served,none,2,1.0,2.0
 U1122,?,135079,Koye Sushi,San Luis Potosi,Chinese,high,No_Alcohol_Served,none,2,2.0,2.0
-U1122,?,135038,Restaurant la Chalita,San Luis Potosi,,medium,No_Alcohol_Served,section,2,,2.0
+U1122,?,135038,Restaurant la Chalita,San Luis Potosi,,medium,No_Alcohol_Served,section,2,2.0,2.0
 U1122,?,135085,Tortas Locas Hipocampo,San Luis Potosi,Fast_Food,medium,No_Alcohol_Served,not permitted,2,2.0,1.0
 U1122,?,135030,Preambulo Wifi Zone Cafe,San Luis Potosi,Cafe-Coffee_Shop;Cafeteria,medium,No_Alcohol_Served,none,2,1.0,1.0
 U1122,?,135064,Restaurante El Chivero S.A. de C.V.,San Luis Potosi,,high,No_Alcohol_Served,none,1,1.0,1.0
@@ -813,7 +810,7 @@ U1033,low,132951,VIPS,San Luis Potosi,American,low,No_Alcohol_Served,not permitt
 U1033,low,132572,Cafe Chaires,San Luis Potosi,Cafeteria,low,No_Alcohol_Served,not permitted,1,0.0,0.0
 U1033,low,132921,crudalia,?,Bar,low,Wine-Beer,section,2,1.0,1.0
 U1033,low,135075,Mariscos El Pescador,San Luis Potosi,Seafood,medium,No_Alcohol_Served,none,2,1.0,0.0
-U1033,low,135038,Restaurant la Chalita,San Luis Potosi,,medium,No_Alcohol_Served,section,9,1.0,1.0
+U1033,low,135038,Restaurant la Chalita,San Luis Potosi,,medium,No_Alcohol_Served,section,1,1.0,1.0
 U1033,low,135030,Preambulo Wifi Zone Cafe,San Luis Potosi,Cafe-Coffee_Shop;Cafeteria,medium,No_Alcohol_Served,none,2,1.0,1.0
 U1089,low,135058,Restaurante Tiberius,San Luis Potosi,Pizzeria,medium,No_Alcohol_Served,none,1,1.0,1.0
 U1089,low,135064,Restaurante El Chivero S.A. de C.V.,San Luis Potosi,,high,No_Alcohol_Served,none,1,1.0,1.0
@@ -842,15 +839,15 @@ U1003,low,132723,Gordas de morales,?,Mexican,medium,Full_Bar,section,2,2.0,1.0
 U1091,low,132861,Carls Jr,San Luis Potosi,Burgers,medium,No_Alcohol_Served,not permitted,1,1.0,1.0
 U1003,low,132755,La Estrella de Dimas,San Luis Potosi,Mexican,medium,No_Alcohol_Served,none,2,2.0,1.0
 U1091,low,132875,shi ro ie,?,Japanese,high,Wine-Beer,section,1,2.0,2.0
-U1003,low,135080,los Toneles,San Luis Potosi,,high,No_Alcohol_Served,section,2,1.0,
+U1003,low,135080,los Toneles,San Luis Potosi,,high,No_Alcohol_Served,section,2,1.0,2.0
 U1091,low,135086,Mcdonalds Parque Tangamanga,San Luis Potosi,Burgers;Fast_Food,medium,No_Alcohol_Served,not permitted,1,1.0,1.0
 U1003,low,135079,Koye Sushi,San Luis Potosi,Chinese,high,No_Alcohol_Served,none,2,2.0,2.0
 U1027,low,135066,Restaurante Guerra,San Luis Potosi,,high,Wine-Beer,section,0,0.0,0.0
 U1091,low,135080,los Toneles,San Luis Potosi,,high,No_Alcohol_Served,section,0,1.0,1.0
 U1027,low,132921,crudalia,?,Bar,low,Wine-Beer,section,1,1.0,1.0
-U1091,low,132572,Cafe Chaires,San Luis Potosi,Cafeteria,low,No_Alcohol_Served,not permitted,9,2.0,2.0
+U1091,low,132572,Cafe Chaires,San Luis Potosi,Cafeteria,low,No_Alcohol_Served,not permitted,2,2.0,2.0
 U1027,low,135052,La Cantina Restaurante,San Luis Potosi,Bar;Bar_Pub_Brewery,high,Full_Bar,none,1,1.0,1.0
-U1091,low,132884,dairy queen,?,,low,No_Alcohol_Served,none,2,2.0,2.0
+U1091,low,132884,dairy queen,?,,low,No_Alcohol_Served,none,2,,2.0
 U1091,low,135035,El Mundo de la Pasta,San Luis Potosi,Italian,high,No_Alcohol_Served,section,1,1.0,1.0
 U1027,low,132937,rockabilly ,san luis potosi,Bar,low,Full_Bar,section,1,1.0,1.0
 U1027,low,132951,VIPS,San Luis Potosi,American,low,No_Alcohol_Served,not permitted,1,1.0,1.0
@@ -864,13 +861,13 @@ U1029,low,135047,Restaurante Casa de las Flores,San Luis Potosi,,high,Wine-Beer,
 U1029,low,135059,Restaurant Bar Hacienda los Martinez,San Luis Potosi,Bar,medium,Wine-Beer,section,2,1.0,1.0
 U1029,low,132937,rockabilly ,san luis potosi,Bar,low,Full_Bar,section,1,1.0,1.0
 U1029,low,135085,Tortas Locas Hipocampo,San Luis Potosi,Fast_Food,medium,No_Alcohol_Served,not permitted,1,1.0,1.0
-U1029,low,132834,Gorditas Doa Gloria,san luis potosi,Mexican,low,No_Alcohol_Served,not permitted,0,1.0,0.0
+U1029,low,132834,Gorditas Doa Gloria,san luis potosi,Mexican,low,No_Alcohol_Served,not permitted,0,1.0,
 U1029,low,132754,Cabana Huasteca,San Luis Potosi,Mexican,medium,No_Alcohol_Served,none,0,0.0,0.0
 U1029,low,132825,puesto de tacos,s.l.p.,Mexican,low,No_Alcohol_Served,none,1,1.0,0.0
 U1029,low,132921,crudalia,?,Bar,low,Wine-Beer,section,1,1.0,1.0
 U1029,low,132862,La Posada del Virrey,San Luis Potosi,International,high,Wine-Beer,none,1,1.0,1.0
 U1029,low,132922,cafe punta del cielo,?,Cafeteria,medium,No_Alcohol_Served,permitted,1,1.0,1.0
-U1086,medium,135063,Restaurante Alhondiga,San Luis Potosi,,medium,No_Alcohol_Served,none,1,1.0,
+U1086,medium,135063,Restaurante Alhondiga,San Luis Potosi,,medium,No_Alcohol_Served,none,1,1.0,1.0
 U1086,medium,132921,crudalia,?,Bar,low,Wine-Beer,section,1,1.0,1.0
 U1086,medium,135085,Tortas Locas Hipocampo,San Luis Potosi,Fast_Food,medium,No_Alcohol_Served,not permitted,2,1.0,1.0
 U1086,medium,132922,cafe punta del cielo,?,Cafeteria,medium,No_Alcohol_Served,permitted,2,1.0,2.0
@@ -902,7 +899,6 @@ U1114,medium,132825,puesto de tacos,s.l.p.,Mexican,low,No_Alcohol_Served,none,0,
 U1114,medium,135065,El angel Restaurante,San Luis Potosi,,high,Wine-Beer,section,0,0.0,0.0
 U1114,medium,135058,Restaurante Tiberius,San Luis Potosi,Pizzeria,medium,No_Alcohol_Served,none,0,0.0,0.0
 U1114,medium,132723,Gordas de morales,?,Mexican,medium,Full_Bar,section,0,0.0,0.0
-U1114,medium,132723,Gordas de morales,?,Mexican,medium,Full_Bar,section,0,0.0,0.0
 U1114,medium,132951,VIPS,San Luis Potosi,American,low,No_Alcohol_Served,not permitted,0,0.0,0.0
 U1114,medium,132872,Pizzeria Julios,s.l.p,American,medium,No_Alcohol_Served,not permitted,1,1.0,1.0
 U1114,medium,132834,Gorditas Doa Gloria,san luis potosi,Mexican,low,No_Alcohol_Served,not permitted,0,0.0,0.0
@@ -925,10 +921,10 @@ U1061,medium,135058,Restaurante Tiberius,San Luis Potosi,Pizzeria,medium,No_Alco
 U1046,medium,135044,Restaurant Wu Zhuo Yi,San Luis Potosi,Chinese,medium,No_Alcohol_Served,none,1,1.0,0.0
 U1046,medium,135065,El angel Restaurante,San Luis Potosi,,high,Wine-Beer,section,2,2.0,2.0
 U1046,medium,132921,crudalia,?,Bar,low,Wine-Beer,section,2,1.0,2.0
-U1046,medium,135085,Tortas Locas Hipocampo,San Luis Potosi,Fast_Food,medium,No_Alcohol_Served,not permitted,1,2.0,1.0
-U1046,medium,132572,Cafe Chaires,San Luis Potosi,Cafeteria,low,No_Alcohol_Served,not permitted,1,,0.0
+U1046,medium,135085,Tortas Locas Hipocampo,San Luis Potosi,Fast_Food,medium,No_Alcohol_Served,not permitted,9,2.0,1.0
+U1046,medium,132572,Cafe Chaires,San Luis Potosi,Cafeteria,low,No_Alcohol_Served,not permitted,9,2.0,0.0
 U1046,medium,135058,Restaurante Tiberius,San Luis Potosi,Pizzeria,medium,No_Alcohol_Served,none,2,2.0,1.0
-U1046,medium,132951,VIPS,San Luis Potosi,American,low,No_Alcohol_Served,not permitted,1,,2.0
+U1046,medium,132951,VIPS,San Luis Potosi,American,low,No_Alcohol_Served,not permitted,1,1.0,2.0
 U1046,medium,132861,Carls Jr,San Luis Potosi,Burgers,medium,No_Alcohol_Served,not permitted,1,2.0,2.0
 U1041,medium,135001,Vips,Cuernavaca,,medium,Wine-Beer,none,1,1.0,1.0
 U1041,medium,134983,Restaurant and Bar and Clothesline Carlos N Charlies,Cuernavaca,Bar;Bar_Pub_Brewery,high,Full_Bar,section,2,2.0,2.0
@@ -995,7 +991,7 @@ U1025,medium,132846,el lechon potosino ,san luis potosi ,International,low,No_Al
 U1025,medium,135064,Restaurante El Chivero S.A. de C.V.,San Luis Potosi,,high,No_Alcohol_Served,none,2,2.0,2.0
 U1025,medium,132830,Rincon Huasteco,?,,low,No_Alcohol_Served,none,2,2.0,2.0
 U1097,medium,135079,Koye Sushi,San Luis Potosi,Chinese,high,No_Alcohol_Served,none,2,1.0,0.0
-U1097,medium,135058,Restaurante Tiberius,San Luis Potosi,Pizzeria,medium,No_Alcohol_Served,none,2,1.0,1.0
+U1097,medium,135058,Restaurante Tiberius,San Luis Potosi,Pizzeria,medium,No_Alcohol_Served,none,2,1.0,
 U1097,medium,132954,la parroquia,san luis potosi,Breakfast-Brunch,medium,No_Alcohol_Served,not permitted,1,1.0,0.0
 U1097,medium,132958,tacos los volcanes,san luis potosi,American,low,No_Alcohol_Served,none,2,1.0,1.0
 U1097,medium,135026,la Cantina,San Luis Potosi,Bar;Bar_Pub_Brewery,high,Full_Bar,none,1,0.0,1.0
@@ -1089,7 +1085,7 @@ U1136,low,135072,Sushi Itto,San Luis Potosi,Japanese,medium,No_Alcohol_Served,no
 U1096,medium,132723,Gordas de morales,?,Mexican,medium,Full_Bar,section,1,2.0,1.0
 U1136,low,135055,la Cochinita Pibil Restaurante Yucateco,San Luis Potosi,Mexican,high,No_Alcohol_Served,section,2,2.0,2.0
 U1136,low,135064,Restaurante El Chivero S.A. de C.V.,San Luis Potosi,,high,No_Alcohol_Served,none,1,1.0,1.0
-U1096,medium,132958,tacos los volcanes,san luis potosi,American,low,No_Alcohol_Served,none,1,,2.0
+U1096,medium,132958,tacos los volcanes,san luis potosi,American,low,No_Alcohol_Served,none,1,2.0,2.0
 U1096,medium,135075,Mariscos El Pescador,San Luis Potosi,Seafood,medium,No_Alcohol_Served,none,1,2.0,1.0
 U1136,low,132958,tacos los volcanes,san luis potosi,American,low,No_Alcohol_Served,none,2,2.0,2.0
 U1136,low,135048,Restaurante Bar Fu-hao,San Luis Potosi,Bar,high,Wine-Beer,none,1,2.0,2.0
@@ -1132,7 +1128,7 @@ U1028,medium,132630,palomo tec,victoria,Mexican,low,No_Alcohol_Served,none,2,2.0
 U1028,medium,132663,tacos abi,victoria,Mexican,low,No_Alcohol_Served,none,0,0.0,0.0
 U1028,medium,132613,carnitas_mata,victoria,Mexican,medium,No_Alcohol_Served,permitted,2,2.0,2.0
 U1087,medium,132667,little pizza Emilio Portes Gil,victoria ,Armenian,low,No_Alcohol_Served,none,2,2.0,1.0
-U1087,medium,135104,vips,?,Mexican,medium,Full_Bar,not permitted,1,2.0,1.0
+U1087,medium,135104,vips,?,Mexican,medium,Full_Bar,not permitted,1,,1.0
 U1087,medium,132660,carnitas mata calle Emilio Portes Gil,victoria,,low,No_Alcohol_Served,none,1,1.0,0.0
 U1087,medium,132732,Taqueria EL amigo ,Cd Victoria,Mexican,low,No_Alcohol_Served,none,2,2.0,1.0
 U1087,medium,132740,Carreton de Flautas y Migadas,Ciudad Victoria,Mexican,low,No_Alcohol_Served,permitted,1,2.0,1.0

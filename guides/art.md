@@ -2,7 +2,7 @@
 
 관심 진로: 미술, 디자인, 건축, 사진, 미술사, 큐레이터
 
-가공본 2,105행 × 13열. 이 파일은 분석·시각화 전 학생이 전처리하는 자료입니다.
+가공본 2,100행 × 13열. 이 파일은 분석·시각화 전 학생이 전처리하는 자료입니다.
 
 ## 원자료 및 준비 기준
 The Museum of Modern Art (MoMA) Collection, Artworks.csv (160,920건). https://doi.org/10.5281/zenodo.23493633. Retrieved 2026-10-24 (commit 4566f41).
@@ -30,11 +30,10 @@ https://github.com/MuseumofModernArt/collection
 
 ## 수업용 가공
 전처리 연습을 위해 원자료를 다음과 같이 바꿨습니다.
-- 있을 수 없는 값: `Height (cm)` -1 5개, `Width (cm)` 0 5개
+- 있을 수 없는 값: `Height (cm)` -1 5개, `Width (cm)` -1 5개
 - 날짜가 아닌 값: `DateAcquired`의 `not_a_date` 5개
-- 중복 행: 작품 5개를 한 번 더 넣음
 
-빈칸과 `()`, `(0)` 표기는 원자료 그대로입니다. 표본 2,100점 기준 원자료 빈칸 수: `Title` 1, `Artist`·`Nationality`·`Gender`·`BeginDate`·`EndDate` 각 8, `Date` 15, `Medium` 23, `DateAcquired` 13, `Height (cm)` 201, `Width (cm)` 210. 선택한 13열이 모두 같은 50행은 같은 판화·사진의 서로 다른 소장품(에디션)이므로 원자료에서는 중복이 아닙니다.
+빈칸과 `()`, `(0)` 표기는 원자료 그대로입니다. 표본 2,100점 기준 원자료 빈칸 수: `Title` 1, `Artist`·`Nationality`·`Gender`·`BeginDate`·`EndDate` 각 8, `Date` 15, `Medium` 23, `DateAcquired` 13, `Height (cm)` 201, `Width (cm)` 210. 높이 0 36점, 너비 0 30점은 원자료 값입니다. 선택한 13열이 모두 같은 50행은 같은 판화·사진의 서로 다른 소장품(에디션)이므로 원자료에서는 중복이 아닙니다.
 
 ## 공개 배포 조건
 원 데이터 CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/. MoMA의 요청에 따라 출처(MoMA)와 DOI를 표시하고, 이 파일이 원자료를 수정한 가공본임을 밝힙니다. MoMA가 이 가공본이나 수업을 보증하지 않습니다. 원자료는 큐레이터 검증이 끝나지 않은 정보를 포함합니다. licenses/MoMA-collection-original-README.md 참고.
