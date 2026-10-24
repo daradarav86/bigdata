@@ -2,14 +2,14 @@
 
 관심 진로: 미술, 디자인, 건축, 사진, 미술사, 큐레이터
 
-가공본 2,100행 × 13열. 이 파일은 분석·시각화 전 학생이 전처리하는 자료입니다.
+가공본 1,050행 × 13열. 이 파일은 분석·시각화 전 학생이 전처리하는 자료입니다.
 
 ## 원자료 및 준비 기준
 The Museum of Modern Art (MoMA) Collection, Artworks.csv (160,920건). https://doi.org/10.5281/zenodo.23493633. Retrieved 2026-10-24 (commit 4566f41).
 
 https://github.com/MuseumofModernArt/collection
 
-7개 분류(Painting, Sculpture, Photograph, Print, Drawing, Design, Architecture)에서 분류별 300점을 고정 난수42로 무작위 추출해 ObjectID 순으로 정렬. 원 30열 중 13열을 원 열 이름 그대로 선택하고 URL·이미지 주소·세부 치수 열은 제외. 괄호 표기, 여러 작가가 이어 붙은 값, 연도 문자열(c. 1950, 1960–65 등)을 정리하지 않음. 작품 이미지는 포함하지 않음.
+7개 분류(Painting, Sculpture, Photograph, Print, Drawing, Design, Architecture)에서 분류별 150점을 고정 난수42로 무작위 추출해 ObjectID 순으로 정렬. 원 30열 중 13열을 원 열 이름 그대로 선택하고 URL·이미지 주소·세부 치수 열은 제외. 괄호 표기, 여러 작가가 이어 붙은 값, 연도 문자열(c. 1950, 1960–65 등)을 정리하지 않음. 작품 이미지는 포함하지 않음.
 
 ## 열 설명
 | 열 | 뜻·단위 |
@@ -33,7 +33,7 @@ https://github.com/MuseumofModernArt/collection
 - 있을 수 없는 값: `Height (cm)` -1 5개, `Width (cm)` -1 5개
 - 날짜가 아닌 값: `DateAcquired`의 `not_a_date` 5개
 
-빈칸과 `()`, `(0)` 표기는 원자료 그대로입니다. 표본 2,100점 기준 원자료 빈칸 수: `Title` 1, `Artist`·`Nationality`·`Gender`·`BeginDate`·`EndDate` 각 8, `Date` 15, `Medium` 23, `DateAcquired` 13, `Height (cm)` 201, `Width (cm)` 210. 높이 0 36점, 너비 0 30점은 원자료 값입니다. 선택한 13열이 모두 같은 50행은 같은 판화·사진의 서로 다른 소장품(에디션)이므로 원자료에서는 중복이 아닙니다.
+빈칸과 `()`, `(0)` 표기는 원자료 그대로입니다. 표본 1,050점 기준 원자료 빈칸 수: `Title` 1, `Artist`·`Nationality`·`Gender`·`BeginDate`·`EndDate` 각 4, `Date` 10, `Medium` 17, `DateAcquired` 5, `Height (cm)` 108, `Width (cm)` 113. 높이 0 21점, 너비 0 17점은 원자료 값입니다. 선택한 13열이 모두 같은 13행은 같은 판화·사진의 서로 다른 소장품(에디션)이므로 원자료에서는 중복이 아닙니다.
 
 ## 공개 배포 조건
 원 데이터 CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/. MoMA의 요청에 따라 출처(MoMA)와 DOI를 표시하고, 이 파일이 원자료를 수정한 가공본임을 밝힙니다. MoMA가 이 가공본이나 수업을 보증하지 않습니다. 원자료는 큐레이터 검증이 끝나지 않은 정보를 포함합니다. licenses/MoMA-collection-original-README.md 참고.
