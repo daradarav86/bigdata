@@ -22,7 +22,11 @@ https://archive.ics.uci.edu/dataset/53/iris
 
 
 ## 수업용 가공
-전처리 연습을 위해 원자료에 없던 빈칸을 넣었습니다: `sepal_length_cm` 2개, `petal_length_cm` 1개. 원자료(Iris)에는 결측이 없습니다.
+전처리 연습을 위해 원자료를 다음과 같이 바꿨습니다.
+- 빈칸: `sepal_length_cm` 2개, `petal_length_cm` 1개
+- 있을 수 없는 값: `sepal_length_cm` -2.0 1개, `petal_width_cm` 0.0 1개
+
+원자료(Iris)에는 결측이 없습니다. 측정값·종명이 모두 같은 1쌍은 원자료에 있는 별개 표본입니다.
 
 ## 공개 배포 조건
 CC BY 4.0 https://creativecommons.org/licenses/by/4.0/. 출처·가공 사실·원조건을 함께 표시하세요. 원자료에서 바꾼 내용은 이 안내의 "원자료 및 준비 기준"과 "수업용 가공"에 적었습니다. 제공자가 이 가공본을 보증하거나 추천하지 않습니다.

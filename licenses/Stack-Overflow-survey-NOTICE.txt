@@ -1,0 +1,12 @@
+computer.csv is a derived database of the Stack Overflow Annual Developer Survey 2025
+(https://survey.stackoverflow.co/, https://github.com/StackExchange/Survey/tree/main/packages/archive/2025).
+
+Original: "Survey data licensed under ODbL 1.0, contents under DbCL 1.0." (Stack Exchange, Inc.)
+- ODbL 1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- DbCL 1.0: https://opendatacommons.org/licenses/dbcl/1-0/
+
+Changes: 14 of 172 columns selected with original names; 2,000 of 49,191 responses
+sampled at random (seed 42) and sorted by ResponseId. For classroom practice, 6 Age values were blanked, 5 YearsCode values set to -1, 5 JobSat values set to 99, and 5 responses duplicated (see guides/computer.md).
+
+This derived database (computer.csv) is made available under the Open Database License 1.0.
+Stack Overflow / Stack Exchange does not endorse this derived database or its use.
