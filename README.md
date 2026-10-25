@@ -90,3 +90,9 @@ licenses/   데이터별 이용조건과 원 제공자 README·고지문
 - CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
 
 저장소 전체에 하나의 데이터 라이선스를 적용하지 않습니다. 파일마다 원출처·가공 사실·각 이용조건을 유지하며, 원 제공자가 이 가공본이나 수업을 보증하거나 추천하지 않습니다. 자료 확인·수업용 준비일: 2026-10-11 (공학·컴퓨터·미술·관광식품·행정 2026-10-24).
+
+## 프로젝트 노트북
+
+`notebooks/project_template.ipynb` — 조별·개별 프로젝트용 빈칸 노트북(미션 0~4: 불러오기 → 구조 확인 → 빈칸 처리 → 그룹별 분석 → 그래프 → 해석). `___`을 채우며 진행하고, 파일마다 추천하는 (묶는 기준, 계산할 열) 짝이 첫머리 표에 있습니다.
+
+Colab에서 바로 열기: https://colab.research.google.com/github/daradarav86/bigdata/blob/main/notebooks/project_template.ipynb
