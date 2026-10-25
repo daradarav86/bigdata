@@ -32,7 +32,9 @@ https://survey.stackoverflow.co/ · https://github.com/StackExchange/Survey/tree
 ## 수업용 가공
 전처리 연습을 위해 원자료를 다음과 같이 바꿨습니다.
 - 빈칸: `Age` 6개
-- 있을 수 없는 값: `YearsCode` -1 5개, `JobSat` 99 5개(만족도 범위 0~10 밖)
+- 있을 수 없던 값(→ 모두 빈칸으로 바꿈): `YearsCode` -1 5개, `JobSat` 99 5개(만족도 범위 0~10 밖)
+
+**현재 파일에는 결측치(빈칸) 외의 이상값이 없습니다.** 범위 밖 값은 모두 빈칸으로 바꿨으므로 전처리는 `isnull().sum()` → `dropna()`/`fillna()`만으로 끝납니다. 아래 빈칸 개수에 바꾼 값이 더해져 실제 빈칸은 더 많습니다.
 
 그 밖의 빈칸은 원자료의 무응답입니다. 표본 1,000건 기준 원자료 빈칸 수: `EdLevel` 20, `YearsCode` 143, `WorkExp` 143, `DevType` 121, `OrgSize` 299, `RemoteWork` 307, `Country` 288, `ConvertedCompYearly` 513, `LanguageHaveWorkedWith` 353, `AISelect` 318, `JobSat` 470.
 

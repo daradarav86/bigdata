@@ -15,10 +15,10 @@ https://archive.ics.uci.edu/dataset/232/restaurant+consumer+data
 | 열 | 뜻·단위 |
 |---|---|
 | `userID` | 평가한 소비자 번호 |
-| `budget` | 소비자 예산 low/medium/high, `?`는 원자료 결측 |
+| `budget` | 소비자 예산 low/medium/high, 빈칸은 원자료 결측 |
 | `placeID` | 식당 번호 |
 | `name` | 식당 이름 |
-| `city` | 도시. 같은 도시가 여러 철자(san luis potosi, s.l.p., slp 등)로 적혀 있고 `?`는 원자료 결측 |
+| `city` | 도시(San Luis Potosi, Ciudad Victoria, Cuernavaca, Jiutepec, Soledad). 철자를 통일했고 빈칸은 원자료 결측 |
 | `Rcuisine` | 요리 종류(Mexican, Fast_Food 등), `;` 구분. 빈칸은 원자료에 요리 정보가 없는 식당 |
 | `price` | 식당 가격대 low/medium/high |
 | `alcohol` | 주류 판매 No_Alcohol_Served/Wine-Beer/Full_Bar |
@@ -30,9 +30,11 @@ https://archive.ics.uci.edu/dataset/232/restaurant+consumer+data
 ## 수업용 가공
 전처리 연습을 위해 원자료를 다음과 같이 바꿨습니다.
 - 빈칸: `food_rating` 6개, `service_rating` 6개
-- 있을 수 없는 값: `rating` 9 5개(평가 범위 0~2 밖)
+- 있을 수 없던 값(→ 모두 빈칸으로 바꿈): `rating` 9 5개(평가 범위 0~2 밖)
 
-`city`의 `?` 114행, `budget`의 `?` 69행, `Rcuisine` 빈칸 288행은 원자료의 결측입니다. pandas는 `?`를 결측으로 읽지 않으므로 직접 바꿔야 합니다.
+**현재 파일에는 결측치(빈칸) 외의 이상값이 없습니다.** 범위 밖 값은 모두 빈칸으로 바꿨으므로 전처리는 `isnull().sum()` → `dropna()`/`fillna()`만으로 끝납니다. 아래 빈칸 개수에 바꾼 값이 더해져 실제 빈칸은 더 많습니다.
+
+`city` 114행, `budget` 69행, `Rcuisine` 288행의 빈칸은 원자료의 결측입니다(원자료의 `?` 표기는 빈칸으로 바꿨습니다). 같은 도시가 여러 철자로 적혀 있던 189행은 5개 도시명으로 통일했습니다.
 
 ## 공개 배포 조건
 CC BY 4.0 https://creativecommons.org/licenses/by/4.0/. 출처·가공 사실·원조건을 함께 표시하세요. 원자료에서 바꾼 내용은 이 안내의 "원자료 및 준비 기준"과 "수업용 가공"에 적었습니다. 제공자가 이 가공본을 보증하거나 추천하지 않습니다.

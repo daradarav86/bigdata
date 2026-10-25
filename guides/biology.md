@@ -24,7 +24,9 @@ https://archive.ics.uci.edu/dataset/53/iris
 ## 수업용 가공
 전처리 연습을 위해 원자료를 다음과 같이 바꿨습니다.
 - 빈칸: `sepal_length_cm` 2개, `petal_length_cm` 1개
-- 있을 수 없는 값: `sepal_length_cm` -2.0 1개, `petal_width_cm` 0.0 1개
+- 있을 수 없던 값(→ 모두 빈칸으로 바꿈): `sepal_length_cm` -2.0 1개, `petal_width_cm` 0.0 1개
+
+**현재 파일에는 결측치(빈칸) 외의 이상값이 없습니다.** 범위 밖 값은 모두 빈칸으로 바꿨으므로 전처리는 `isnull().sum()` → `dropna()`/`fillna()`만으로 끝납니다. 아래 빈칸 개수에 바꾼 값이 더해져 실제 빈칸은 더 많습니다.
 
 원자료(Iris)에는 결측이 없습니다. 측정값·종명이 모두 같은 1쌍은 원자료에 있는 별개 표본입니다.
 

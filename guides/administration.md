@@ -25,7 +25,9 @@ https://www.worldbank.org/en/publication/worldwide-governance-indicators
 ## 수업용 가공
 전처리 연습을 위해 원자료를 다음과 같이 바꿨습니다.
 - 빈칸: `gov_effectiveness` 5개, `rule_of_law` 5개
-- 있을 수 없는 값: `control_of_corruption` -1 3개, `regulatory_quality` 999 3개(점수 범위 0~100 밖)
+- 있을 수 없던 값(→ 모두 빈칸으로 바꿈): `control_of_corruption` -1 3개, `regulatory_quality` 999 3개(점수 범위 0~100 밖)
+
+**현재 파일에는 결측치(빈칸) 외의 이상값이 없습니다.** 범위 밖 값은 모두 빈칸으로 바꿨으므로 전처리는 `isnull().sum()` → `dropna()`/`fillna()`만으로 끝납니다. 아래 빈칸 개수에 바꾼 값이 더해져 실제 빈칸은 더 많습니다.
 
 원자료 결측: `gov_effectiveness` 26, `regulatory_quality` 28, `rule_of_law` 15, `control_of_corruption` 14 (South Sudan, Kosovo, Montenegro).
 

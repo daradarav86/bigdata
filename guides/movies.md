@@ -23,7 +23,9 @@ https://files.grouplens.org/datasets/movielens/ml-latest-small-README.html
 ## 수업용 가공
 전처리 연습을 위해 원자료를 다음과 같이 바꿨습니다.
 - 빈칸: `rating_mean` 98개, `rating_count` 97개(한쪽만 비어 있는 행이 있음)
-- 있을 수 없는 값: `rating_mean` -1.0 25개, 9.0 24개(평점 범위 0.5~5 밖), `rating_count` -10 48개
+- 있을 수 없던 값(→ 모두 빈칸으로 바꿈): `rating_mean` -1.0 25개, 9.0 24개(평점 범위 0.5~5 밖), `rating_count` -10 48개
+
+**현재 파일에는 결측치(빈칸) 외의 이상값이 없습니다.** 범위 밖 값은 모두 빈칸으로 바꿨으므로 전처리는 `isnull().sum()` → `dropna()`/`fillna()`만으로 끝납니다. 아래 빈칸 개수에 바꾼 값이 더해져 실제 빈칸은 더 많습니다.
 
 평가가 없는 영화 18편은 원자료에서 평균과 평가 수가 모두 결측입니다. 현재 빈칸은 `rating_mean` 116개, `rating_count` 115개입니다.
 

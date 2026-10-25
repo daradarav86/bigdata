@@ -1,10 +1,10 @@
 ﻿Title,Artist,Nationality,Gender,BeginDate,EndDate,Date,Medium,Classification,Department,DateAcquired,Height (cm),Width (cm)
-"The Manhattan Transcripts Project, New York, New York, Episode 1: The Park",Bernard Tschumi,(),(male),(1944),(0),1976-77,Gelatin silver photograph,Architecture,Architecture & Design,1995-01-17,35.6,45.7
-"The Manhattan Transcripts Project, New York, New York, Episode 1: The Park",Bernard Tschumi,(),(male),(1944),(0),1976-77,Gelatin silver photograph,Architecture,Architecture & Design,1995-01-17,35.6,45.7
-"The Manhattan Transcripts Project, New York, New York, Episode 2: The Street (Border Crossing)",Bernard Tschumi,(),(male),(1944),(0),1978,"Ink, charcoal, graphite, cut-and-pasted photographic reproductions, Letraset type, and color pencil on tracing paper",Architecture,Architecture & Design,1995-01-17,60.9601,817.8816
+"The Manhattan Transcripts Project, New York, New York, Episode 1: The Park",Bernard Tschumi,,(male),(1944),(0),1976-77,Gelatin silver photograph,Architecture,Architecture & Design,1995-01-17,35.6,45.7
+"The Manhattan Transcripts Project, New York, New York, Episode 1: The Park",Bernard Tschumi,,(male),(1944),(0),1976-77,Gelatin silver photograph,Architecture,Architecture & Design,1995-01-17,35.6,45.7
+"The Manhattan Transcripts Project, New York, New York, Episode 2: The Street (Border Crossing)",Bernard Tschumi,,(male),(1944),(0),1978,"Ink, charcoal, graphite, cut-and-pasted photographic reproductions, Letraset type, and color pencil on tracing paper",Architecture,Architecture & Design,1995-01-17,60.9601,817.8816
 "House IV Project, Falls Village, Connecticut (Multiple axonometrics)","Peter Eisenman, Robert Cole",(American) (),(male) (male),(1932) (0),(0) (0),1975,Ink and color ink on frosted polymer sheet,Architecture,Architecture & Design,1980-01-08,34.9251,113.3477
 "Villa Snellman, Djursholm, Sweden, Exterior elevation",Erik Gunnar Asplund,(Swedish),(male),(1885),(1940),1917,Ink on ozalid,Architecture,Architecture & Design,1990-01-17,31.8,61.6
-"Hadassah University Medical Center, Mount Scopus, Jerusalem, Perspective",Erich Mendelsohn,(American),(male),(1887),(1953),1936,Colored pencil on tracing paper,Architecture,Architecture & Design,2000-01-19,21.9075,-1.0
+"Hadassah University Medical Center, Mount Scopus, Jerusalem, Perspective",Erich Mendelsohn,(American),(male),(1887),(1953),1936,Colored pencil on tracing paper,Architecture,Architecture & Design,2000-01-19,21.9075,
 "Residence of Salman Schocken, Jerusalem, Israel, Perspectives",Erich Mendelsohn,(American),(male),(1887),(1953),Unknown,Graphite on tracing paper,Architecture,Architecture & Design,2000-01-19,37.5,28.5
 "Nara Convention Hall, Nara, Japan, Sketches for main hall",Arata Isozaki,(Japanese),(male),(1931),(0),1992,Felt-tipped pen on tracing paper,Architecture,Architecture & Design,1993-05-04,30.5,84.5
 "Gotthard Bank, Lugano, Switzerland, Perspective",Mario Botta,(Swiss),(male),(1943),(0),1986,Pen and ink on paper,Architecture,Architecture & Design,1987-05-27,94.6,94.6
@@ -34,20 +34,20 @@ Figure of Eight Chair,Ross Lovegrove,(British),(male),(1958),(0),1993,"Polyureth
 Kilta Storage Container,Kaj Franck,(Finnish),(male),(1911),(1989),1948,Glazed earthenware,Design,Architecture & Design,1997-01-15,10.2,
 Upholstery Fabric Sample,Marli Ehrman,(American),(female),(1904),(1982),Before 1975,Wool,Design,Architecture & Design,1975-03-31,,96.5
 Drapery material (Used in the Rockefeller Guest House),Anni Albers,(American),(female),(1899),(1994),1942–1944,"Lurex, cellophane, and cotton chenille",Design,Architecture & Design,1975-03-31,,91.4
-Casserole with Handle,"Coors Porcelain Co., Golden, CO",(American),(),(1910),(0),1920s,Glazed porcelain,Design,Architecture & Design,1948-03-17,7.3,21.1138
+Casserole with Handle,"Coors Porcelain Co., Golden, CO",(American),,(1910),(0),1920s,Glazed porcelain,Design,Architecture & Design,1948-03-17,7.3,21.1138
 Mat,,,,,,c. 1930-40,Linen,Design,Architecture & Design,1975-03-31,,45.7201
 Medicine Cabinet,Thomas Eriksson,(Swedish),(male),(1959),(0),1992,Lacquered steel,Design,Architecture & Design,1995-05-09,43.8,43.8
-Water Flasks,Kurt Zimmerli,(Swiss),(),(1946),(0),1992,Resin-coated aluminum and plastic,Design,Architecture & Design,1993-05-04,24.765,
+Water Flasks,Kurt Zimmerli,(Swiss),,(1946),(0),1992,Resin-coated aluminum and plastic,Design,Architecture & Design,1993-05-04,24.765,
 Racing Wheelchair,Bob Hall,(American),(male),(1951),(0),1986,"Aircraft steel tubing, cotton, and nylon",Design,Architecture & Design,1988-04-27,60.0076,63.5
 Door Handle (model FSB 1058),Johannes Potente,(German),(male),(1908),(1987),1958,Aluminum,Design,Architecture & Design,1998-04-22,3.4925,13.335
 Constructed Color Wall Hanging,Ed Rossbach,(American),(male),(1914),(2002),1965,Synthetic raffia,Design,Architecture & Design,1968-03-07,144.8,180.3404
 Cocktail Glasses,Walter Dorwin Teague,(American),(male),(1883),(1960),1920s,Glass,Design,Architecture & Design,1934-04-01,7.6,
 Tumbler,Saara Hopea,(Finnish),(female),(1925),(1984),1951,Blown glass,Design,Architecture & Design,1984-10-30,8.5725,
-Wrinkle P Fabric,"Inoue Pleats Co., Ltd., Fukui, Japan",(Japanese),(),(0),(0),1995,Polyester,Design,Architecture & Design,2000-06-30,3.8,254.0
-Bud Vase,"Daum Frères, Nancy, France",(French),(),(1875),(0),c. 1910,Blown painted glass,Design,Architecture & Design,1977-06-01,15.8750317501,4.44500889
+Wrinkle P Fabric,"Inoue Pleats Co., Ltd., Fukui, Japan",(Japanese),,,(0),1995,Polyester,Design,Architecture & Design,2000-06-30,3.8,254.0
+Bud Vase,"Daum Frères, Nancy, France",(French),,(1875),(0),c. 1910,Blown painted glass,Design,Architecture & Design,1977-06-01,15.8750317501,4.44500889
 Construction with Newspaper and Plastic Wall Hanging,Ed Rossbach,(American),(male),(1914),(2002),1968,"Polyethylene film, twine, and newsprint",Design,Architecture & Design,1985-11-18,78.7401574803,101.6
 Town and Country Salt and Pepper Shakers,Eva Zeisel,(American),(female),(1906),(2011),c. 1945,Glazed earthenware,Design,Architecture & Design,1994-09-21,11.43,
-Welder's Mask,Unidentified Designer,(American),(),(0),(0),Before 1930,"Coated cardboard, glass, bakelite, and metal",Design,Architecture & Design,1988-11-22,22.86,22.86
+Welder's Mask,Unidentified Designer,(American),,,(0),Before 1930,"Coated cardboard, glass, bakelite, and metal",Design,Architecture & Design,1988-11-22,22.86,22.86
 Wall Hanging: Light Bubble,Nancy Guay Giesberger,(American),(female),(1945),(0),1975,"Double cloth, gold gimp, saran, and plexiglass",Design,Architecture & Design,1983-05-17,363.2,91.4
 Drapery Material,Anni Albers,(American),(female),(1899),(1994),1941,Cotton,Design,Architecture & Design,1951-05-24,,134.6
 Automobile Upholstery Material,Anni Albers,(American),(female),(1899),(1994),After 1933,Horsehair and gimp,Design,Architecture & Design,1970-11-05,,6.7
@@ -56,12 +56,12 @@ Vase,Umberto Nason,(Italian),(male),(1889),(1964),1954,Glass,Design,Architecture
 Radio (model TS 502),"Marco Zanuso, Richard Sapper",(Italian) (German),(male) (male),(1916) (1932),(2001) (2015),1963,ABS plastic and aluminum,Design,Architecture & Design,1970-11-05,13.335,21.9075
 Stool (no. V63),Alvar Aalto,(Finnish),(male),(1898),(1976),1946-47,Solid and laminated wood and rattan,Design,Architecture & Design,1981-12-10,45.0851,
 Desert Spoon,Ward Bennett,(American),(male),(1917),(2003),1980,Stainless steel,Design,Architecture & Design,1981-12-10,,3.0
-Necklace,Henri Tronquoy,(French),(male),(0),(0),1966,Brass,Design,Architecture & Design,1967-06-06,,
-Covered Containers,Unidentified Designer,(),(),(0),(0),c. 1953,Plastic,Design,Architecture & Design,1954-12-16,5.3975,
+Necklace,Henri Tronquoy,(French),(male),,(0),1966,Brass,Design,Architecture & Design,1967-06-06,,
+Covered Containers,Unidentified Designer,,,,(0),c. 1953,Plastic,Design,Architecture & Design,1954-12-16,5.3975,
 Vases,Jan Bontjes van Beek,(German),(male),(1899),(1969),1957,Porcelain,Design,Architecture & Design,1959-12-30,21.3,
-Detail of Microprocessor (CRISP) Diagram,"AT&T Bell Laboratories, Murray Hill, NJ",(American),(),(1925),(0),1986,Ink on paper,Design,Architecture & Design,1990-10-24,92.0752,108.5852
+Detail of Microprocessor (CRISP) Diagram,"AT&T Bell Laboratories, Murray Hill, NJ",(American),,(1925),(0),1986,Ink on paper,Design,Architecture & Design,1990-10-24,92.0752,108.5852
 Clock (model 101),Rudolph De Harak,(American),(male),(1924),(2001),1966,Chrome-plated metal and plastic,Design,Architecture & Design,1966-12-06,,
-Food Grinder,John H. Lickert,(American),(male),(0),(0),1922,Steel,Design,Architecture & Design,1943-11-04,25.4001,28.0
+Food Grinder,John H. Lickert,(American),(male),,(0),1922,Steel,Design,Architecture & Design,1943-11-04,25.4001,28.0
 High-Back Armchair,"Charles Eames, Eero Saarinen, Marli Ehrman",(American) (American) (American),(male) (male) (female),(1907) (1910) (1904),(1978) (1961) (1982),1940,"Molded wood shell, foam rubber, upholstery, and wood legs",Design,Architecture & Design,1942-01-01,106.6802,81.2802
 Fabric (no. 13308),Marli Ehrman,(American),(female),(1904),(1982),c. 1940,Woven cotton,Design,Architecture & Design,1942-01-01,,66.0
 Lytegem High-Intensity Lamp,Michael Lax,(American),(male),(1929),(1999),1965,"Plastic, zinc, and aluminum",Design,Architecture & Design,1965-11-09,38.1001,7.62
@@ -71,20 +71,20 @@ Ring,"Stephen Brody, Dan Stoenescu",(American) (American),(male) (male),(1926) (
 For Liberty Exhibition,Frederick H. K. Henrion,(British),(male),(1914),(1990),1900-1945,Poster,Design,Architecture & Design,1945-01-03,,
 Think Twice Before Making Any Trunk Calls,"Jan Lewitt, George Him",(British) (British),(male) (male),(1907) (1900),(1991) (1982),1939-1945,Lithograph,Design,Architecture & Design,1945-01-03,73.6601473203,91.4401828804
 Pozegnanie z Diablem,Wiktor Górka,(Polish),(male),(1922),(2004),1957,Lithograph,Design,Architecture & Design,1961-02-07,86.3601727203,59.0551181102
-If You Must Telephone Be Brief,Unknown artist,(),(),(0),(0),1939-1945,Lithograph,Design,Architecture & Design,1945-01-03,37.8,25.1
+If You Must Telephone Be Brief,Unknown artist,,,,(0),1939-1945,Lithograph,Design,Architecture & Design,1945-01-03,37.8,25.1
 Kanze Noh Play,Ikko Tanaka,(Japanese),(male),(1930),(2002),1973,Silkscreen,Design,Architecture & Design,1990-01-17,102.8,72.5
-No llencen els diaris,Miguel,(Spanish),(),(0),(0),1900-1937,Poster,Design,Architecture & Design,1937-01-01,70.4851409703,99.0601981204
+No llencen els diaris,Miguel,(Spanish),,,(0),1900-1937,Poster,Design,Architecture & Design,1937-01-01,70.4851409703,99.0601981204
 Evening Tourist Tickets,E. McKnight Kauffer,(American),(male),(1890),(1954),1936,Lithograph,Design,Architecture & Design,1936-10-01,21.6,26.7
 Shell,Austin Cooper,(British),(male),(1890),(1964),1900-1950,Poster,Design,Architecture & Design,1950-04-24,,
-"Bo Diddley, Peanut, Butter Conspiracy, Clear Light",Dahlgren,(American),(),(0),(0),1968,Offset lithograph,Design,Architecture & Design,1993-05-04,,
-Art Nouveau and Jugendstil,Unidentified Designer,(Swiss),(),(0),(0),1952,Lithograph,Design,Architecture & Design,1955-06-16,91.4,129.5
+"Bo Diddley, Peanut, Butter Conspiracy, Clear Light",Dahlgren,(American),,,(0),1968,Offset lithograph,Design,Architecture & Design,1993-05-04,,
+Art Nouveau and Jugendstil,Unidentified Designer,(Swiss),,,(0),1952,Lithograph,Design,Architecture & Design,1955-06-16,91.4,129.5
 Miho,James Miho,(American),(male),(1933),(0),1972,Offset lithograph,Design,Architecture & Design,1973-05-08,69.8,47.6
 "3 Illustrations for ""Killed By Roses"" (A Book Of Portraits Of Yukio Mishima)",Tadanori Yokoo,(Japanese),(male),(1936),(0),1969,Offset lithograph,Design,Architecture & Design,1973-05-08,38.1,38.1
 Poster for the first documenta exhibition,Arnold Bode,(German),(male),(1900),(1977),1955,Lithograph,Design,Architecture & Design,1956-04-04,59.7,41.9
-"¡Campesino! Tus Enemigos Te Hicieron Trabajar de Sol a Sol para Alimentarlos. Ahora, que la Tierra es Tuya Trabajar de Sol a Sol para Aniquilarlos",Jesús Lozano,(Spanish),(male),(0),(0),1937,Lithograph,Design,Architecture & Design,1937-12-03,99.1,70.5
+"¡Campesino! Tus Enemigos Te Hicieron Trabajar de Sol a Sol para Alimentarlos. Ahora, que la Tierra es Tuya Trabajar de Sol a Sol para Aniquilarlos",Jesús Lozano,(Spanish),(male),,(0),1937,Lithograph,Design,Architecture & Design,1937-12-03,99.1,70.5
 ¿Que Fais-Tu Pour Empêcher Cela?,"Augusto (Augusto Fernández Sastre), Robert Capa",(Spanish) (American),(male) (male),(1887) (1913),(1975) (1954),1937,Lithograph,Design,Architecture & Design,1937-12-03,40.0,27.3
 "Bank by Andy Warhol. Gaudy Savings by RCA Color Scanner. Pretty as a Pigture, Huh?",Andy Warhol,(American),(male),(1928),(1987),1968,Offset lithograph,Design,Architecture & Design,1987-05-27,75.9,115.0
-British World War II Poster,Unknown artist,(),(),(0),(0),1939-1945,Poster,Design,Architecture & Design,not_a_date,,
+British World War II Poster,Unknown artist,,,,(0),1939-1945,Poster,Design,Architecture & Design,,,
 "Architectuur, Frank Lloyd Wright, Tentoonstellung",Hendrikus Th. Wijdeveld,(Dutch),(male),(1885),(1987),1931,Letterpress,Design,Architecture & Design,1980-01-08,77.5,49.6
 Bata Shoes,Herbert Leupin,(Swiss),(male),(1916),(1999),1900-1953,Poster,Design,Architecture & Design,1953-04-07,,
 Levine Exhibition,Jack Levine,(American),(male),(1915),(2010),1900-1953,Poster,Design,Architecture & Design,1953-04-07,,
@@ -98,26 +98,26 @@ London Museum of Practical Geology (Poster for London Transport),E. McKnight Kau
 (Number 3 of a newspaper campaign),Karl Gerstner,(Swiss),(male),(1930),(2017),1964,Silkscreen,Design,Architecture & Design,1964-04-14,127.6,90.1
 Gombrowicz: Operetka,Franciszek Starowieyski,(Polish),(male),(1930),(2009),1977,Offset lithograph,Design,Architecture & Design,1985-11-18,97.2,66.4
 ..Trink Lieber Eptinger! (Instead Drink Eptinger) (Poster for the mineral water company Eptinger),Herbert Leupin,(Swiss),(male),(1916),(1999),1948,Lithograph,Design,Architecture & Design,1951-05-24,127.6,89.5
-Romanian travel poster,Unknown artist,(),(),(0),(0),1900-1943,Poster,Design,Architecture & Design,1943-05-12,,
+Romanian travel poster,Unknown artist,,,,(0),1900-1943,Poster,Design,Architecture & Design,1943-05-12,,
 "Oude Oosterse Tapijten, 1954",Willem Jacob Henri Berend Sandberg,(Dutch),(male),(1897),(1984),1954,Poster,Design,Architecture & Design,1954-09-30,34.9,49.5
 Exposição da Agricultura Paulista (Poster for exhibition on agriculture in the state of São Paulo),Lina Bo Bardi,(Brazilian),(female),(1914),(1992),1951,Lithograph,Design,Architecture & Design,1951-11-21,50.8001016002,34.9250698501
 Foto's Carel Blazer,Hajo Rose,(German),(male),(1910),(1989),1935,Letterpress,Design,Architecture & Design,1977-11-28,18.7,8.1
 New Music Media 2 In Tsumagoi,Aijiro Wakita,(Japanese),(male),(1942),(0),1975,Offset lithograph,Design,Architecture & Design,1981-12-10,103.0,72.9
 Exposición y Feria Nacional de Olavarría,Juan Carlos Distéfano,(Argentine),(male),(1933),(0),1960,Photolithograph,Design,Architecture & Design,1963-12-10,109.2,73.0
-Albert Langen-Verlag München,Unknown artist,(),(),(0),(0),c. 1925,Letterpress,Design,Architecture & Design,1999-12-10,22.7,18.1
+Albert Langen-Verlag München,Unknown artist,,,,(0),c. 1925,Letterpress,Design,Architecture & Design,1999-12-10,22.7,18.1
 Wohnung und Werkraum,Johannes Molzahn,(German),(male),(1892),(1965),1929,Letterpress,Design,Architecture & Design,1999-12-10,29.7,21.0
 Bukkyo Dendo Kyokai,Tadanori Yokoo,(Japanese),(male),(1936),(0),Unknown,Offset lithograph,Design,Architecture & Design,1983-11-30,109.8552197104,79.0576581153
-"Dr. Steinitz, Postkarte",Unknown artist,(),(),(0),(0),c. 1929,Letterpress,Design,Architecture & Design,1999-12-10,10.5,14.8
+"Dr. Steinitz, Postkarte",Unknown artist,,,,(0),c. 1929,Letterpress,Design,Architecture & Design,1999-12-10,10.5,14.8
 Promotional card for designer Ladislav Sutnar,Ladislav Sutnar,(American),(male),(1897),(1976),1932,Letterpress,Design,Architecture & Design,1999-12-10,10.6,14.9
 "Side 1: Guerlain Paris, Joyeux Noël, Jolie Madame!; Side 2: If It's a Paramount Picture It's the Best Show in Town",Georg Trump,(German),(male),(1896),(1985),c. 1931,Letterpress,Design,Architecture & Design,1999-12-10,29.7,21.0
 Maria Luisa,Georg Trump,(German),(male),(1896),(1985),c. 1931,Letterpress,Design,Architecture & Design,1999-12-10,29.7,21.0
-"""Tessiner Novellen: Sechs Geschichten vom Tal"" by Aline Valangin",Unknown artist,(),(),(0),(0),c. 1937,Letterpress,Design,Architecture & Design,not_a_date,18.9,11.4
-Ausstellung am Adolf-Mittag-See,Unknown artist,(),(),(0),(0),1929,Letterpress,Design,Architecture & Design,1999-12-10,20.8,10.0
-Esslinger Wollheft 30: Regenwetter Trockenwolle,Unknown artist,(),(),(0),(0),1932,Letterpress,Design,Architecture & Design,1999-12-10,29.7,14.8
+"""Tessiner Novellen: Sechs Geschichten vom Tal"" by Aline Valangin",Unknown artist,,,,(0),c. 1937,Letterpress,Design,Architecture & Design,,18.9,11.4
+Ausstellung am Adolf-Mittag-See,Unknown artist,,,,(0),1929,Letterpress,Design,Architecture & Design,1999-12-10,20.8,10.0
+Esslinger Wollheft 30: Regenwetter Trockenwolle,Unknown artist,,,,(0),1932,Letterpress,Design,Architecture & Design,1999-12-10,29.7,14.8
 Bring in 'Da Noise Bring in 'Da Funk,Paula Scher,(American),(female),(1948),(0),1995,Lithograph,Design,Architecture & Design,2000-12-11,114.3,76.5
 Die Mauer Muß Weg,Klaus Staeck,(German),(male),(1938),(0),1976,Lithograph,Design,Architecture & Design,2000-12-11,84.1,59.1
 "In The Name of Mercy, Give!",Albert Herter,(American),(male),(1871),(1950),1917,Gouache-lithograph,Design,Architecture & Design,1940-04-05,96.5,63.5
-They Thought We Couldn't Fight,Unknown artist,(),(),(0),(0),1916-1920,"Poster, gouache-litho",Design,Architecture & Design,1940-04-05,48.3,48.3
+They Thought We Couldn't Fight,Unknown artist,,,,(0),1916-1920,"Poster, gouache-litho",Design,Architecture & Design,1940-04-05,48.3,48.3
 "Portfolio 2, Folder 32 from Formulation: Articulation",Josef Albers,(American),(male),(1888),(1976),1972,Screenprinted folder from a two-part portfolio of 66 screenprinted folders,Print,Drawings & Prints,1975-05-09,38.1000762002,101.6002032004
 "Woman by the Grapevine, Fourth Variant (Femme au cep de vigne, 4e variante) from Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",Pierre-Auguste Renoir,(French),(male),(1841),(1919),"c. 1904, published 1919",One from a portfolio of twelve lithographs,Print,Drawings & Prints,1964-10-06,14.2,9.7
 Untitled from Moonstrips Empire News,Eduardo Paolozzi,(British),(male),(1924),(2005),1967,One from a portfolio of 101 screenprints (including title page and colophon),Print,Drawings & Prints,1967-12-13,36.2,23.4
@@ -209,7 +209,7 @@ El Morocco,Dan Weiner,(American),(male),(1919),(1959),1955,Gelatin silver print,
 NU DE LA MER NUMERO 1,Lucien Clergue,(French),(male),(1934),(2014),1956,Gelatin silver print,Photograph,Photography,1959-04-22,29.9,23.8
 Saint-Germain-des-Prés,Ed van Der Elsken,(Dutch),(male),(1925),(1990),1953,Gelatin silver print,Photograph,Photography,1964-02-11,34.8,29.8
 Jacqueline,Man Ray (Emmanuel Radnitzky),(American),(male),(1890),(1976),1930,Gelatin silver print (solarized),Photograph,Photography,1941-01-16,29.2,22.7
-Stockholm,Unidentified photographer,(),(),(0),(0),c. 1870,Albumen silver print from a glass negative,Photograph,Photography,1982-05-13,15.6,19.3
+Stockholm,Unidentified photographer,,,,(0),c. 1870,Albumen silver print from a glass negative,Photograph,Photography,1982-05-13,15.6,19.3
 Louis Veuillot  (1813–1883),Pierre-Louis Pierson,(French),(male),(1822),(1913),1860-70,Albumen silver print (carte de visite),Photograph,Photography,1982-05-13,9.0,5.7
 San Benito from the Steamer,Eadweard J. Muybridge,(American),(male),(1830),(1904),1875,Albumen silver print,Photograph,Photography,1964-02-11,13.7,23.3
 Evening at San Benito,Eadweard J. Muybridge,(American),(male),(1830),(1904),1875,Albumen silver print,Photograph,Photography,1964-02-11,13.7,23.3
@@ -219,7 +219,7 @@ Untitled,Graham Smith,(British),(male),(1947),(0),1983,Gelatin silver print,Phot
 Untitled,Man Ray (Emmanuel Radnitzky),(American),(male),(1890),(1976),1933,Gelatin silver print,Photograph,Photography,1941-01-16,21.6,28.4
 Untitled,Lou Stoumen,(American),(male),(1917),(1991),1940,Gelatin silver print,Photograph,Photography,,30.4,22.8
 Untitled,William G. Larson,(American),(male),(1942),(2019),"November 1, 1972",Xerox telephone print,Photograph,Photography,1973-05-10,28.0,19.7
-NAVAGAM TANK. WASTE WEIR AND DAM,Unidentified photographer,(),(),(0),(0),1899,Albumen silver print,Photograph,Photography,1975-05-14,16.0,27.5
+NAVAGAM TANK. WASTE WEIR AND DAM,Unidentified photographer,,,,(0),1899,Albumen silver print,Photograph,Photography,1975-05-14,16.0,27.5
 "Riding Out to Bring the Cattle, First Stages of Snow Blizzard, Lyman County South Dakota, (Rider in the Snow)",John Vachon,(American),(male),(1914),(1975),1940,Gelatin silver print,Photograph,Photography,1944-11-08,33.6551,23.495
 "London, England",Lee Friedlander,(American),(male),(1934),(0),1985,Gelatin silver print,Photograph,Photography,1995-06-15,47.3,31.5
 "Myself, New York City",Robert Frank,(American),(male),(1924),(2019),1947,Gelatin silver print,Photograph,Photography,1985-10-02,26.9,26.5
@@ -238,7 +238,7 @@ A Night Scene in the Yards. (train tracks and silhouetted trains),Simpson Kalish
 WINTER HILLSIDE AND HOUSE IN DISTANCE,Charles Pratt,(American),(male),(1926),(1976),1965,Gelatin silver print,Photograph,Photography,1969-05-21,26.2,33.6
 "Banner, Hagler/Leonard Fight, Ceasar's Vegas",Jay Wolke,(American),(male),(1954),(0),1987,Chromogenic print,Photograph,Photography,1992-06-18,45.2,37.2
 Gummidrucke,"Hugo Henneberg, Heinrich Kühn, Hans Watzek",(Austrian) (German) (Austrian),(male) (male) (male),(1863) (1866) (1848),(1918) (1944) (1903),1902,Photogravures from gum print,Photograph,Photography,1971-05-04,44.5,33.1
-"Fountain and Park, Savannah from the album Photographic Views of Sherman's Campaign",George N. Barnard,(American),(male),(1819),(1902),1864-65,Albumen silver print,Photograph,Photography,1969-05-21,-1.0,35.9
+"Fountain and Park, Savannah from the album Photographic Views of Sherman's Campaign",George N. Barnard,(American),(male),(1819),(1902),1864-65,Albumen silver print,Photograph,Photography,1969-05-21,,35.9
 "Truck in Nueva Casas Grandes, Chihuahua, Mexico",Danny Lyon,(American),(male),(1942),(0),1975,Gelatin silver print,Photograph,Photography,1992-10-15,28.0,35.6
 Sand Dunes,Brett Weston,(American),(male),(1911),(1993),1947,Gelatin silver print,Photograph,Photography,1974-10-01,19.2,24.1
 "Ardara Dolmen, County Donegal, Ireland",Paul Caponigro,(American),(male),(1932),(2024),1967,Gelatin silver print,Photograph,Photography,1973-11-13,20.2,24.8
@@ -258,8 +258,8 @@ TEMPLE DE DAKKEH,Maxime Du Camp,(French),(male),(1822),(1894),c. 1849,Salted pap
 "Tokyo, Japan",Lee Friedlander,(American),(male),(1934),(0),1979,Gelatin silver print,Photograph,Photography,2000-10-12,38.0,57.1
 Gerald Hughes (a.k.a. Savage Fantasy); about 27 years old; Southern California; $50,Philip-Lorca diCorcia,(American),(male),(1951),(0),1990-92,Chromogenic print,Photograph,Photography,2001-04-12,40.2,58.4
 Square Tower House,Laura Gilpin,(American),(female),(1881),(1979),1925,Palladium print,Photograph,Photography,1969-01-08,24.1,19.9
-"""The Motive Power To Drive a Giant of the Air Through the Clouds""",Times Wide World Photos,(American),(),(1919),(1941),1931,Gelatin silver print,Photograph,Photography,2001-06-14,19.5,24.2
-"""A Famous Fisherman in Action""",Times Wide World Photos,(American),(),(1919),(1941),1932,Gelatin silver print,Photograph,Photography,2001-06-14,24.5,19.7
+"""The Motive Power To Drive a Giant of the Air Through the Clouds""",Times Wide World Photos,(American),,(1919),(1941),1931,Gelatin silver print,Photograph,Photography,2001-06-14,19.5,24.2
+"""A Famous Fisherman in Action""",Times Wide World Photos,(American),,(1919),(1941),1932,Gelatin silver print,Photograph,Photography,2001-06-14,24.5,19.7
 Stairwell ( Treppenhaus ),Blinky Palermo,(German),(male),(1943),(1977),1970,Screenprint,Print,Drawings & Prints,1972-02-07,40.5,95.2
 Untitled from Homage to Picasso (Hommage à Picasso),Jan Voss,(German),(male),(1936),(0),"1972, published 1973","Lithograph from a portfolio of thirty-one lithographs (one with aquatint, one with collotype, one with screenprint), twenty-two screenprints (one with embossing, one with flocking, one with stencil), eleven etchings (five with aquatint, one with aquatint and drypoint, one with aquatint, drypoint, and engraving), three aquatints (one with etching), and two woodcuts",Print,Drawings & Prints,1987-01-15,56.2,75.6
 8 Lithographs (8 Litografier),Asger Jorn,(Danish),(male),(1914),(1973),"1945, published 1949",Portfolio of eight lithographs,Print,Drawings & Prints,1947-03-13,34.9250698501,49.5300990602
@@ -271,7 +271,7 @@ Untitled #4 from an untitled series,Larry Bell,(American),(male),(1939),(0),1974
 Composition,Louise Bourgeois,(American),(female),(1911),(2010),1940–1944,Lithograph,Print,Drawings & Prints,1990-05-02,23.3,29.7
 Solarium,Helen Frankenthaler,(American),(female),(1928),(2011),1964,Lithograph,Print,Drawings & Prints,1964-02-11,45.5,35.0
 In the Shadows (Im Schatten),George Grosz,(American),(male),(1893),(1959),"c. 1920, published 1921",Portfolio of ten offset lithographs (including title page),Print,Drawings & Prints,1945-04-26,45.7,38.1
-Killdevil Hill,Robert Rauschenberg,(American),(male),(1925),(2008),1975,Lithograph,Print,Drawings & Prints,not_a_date,59.6,202.0
+Killdevil Hill,Robert Rauschenberg,(American),(male),(1925),(2008),1975,Lithograph,Print,Drawings & Prints,,59.6,202.0
 "Mademoiselle Marcelle Lender, Standing (Mademoiselle Marcelle Lender, debout)",Henri de Toulouse-Lautrec,(French),(male),(1864),(1901),1895,Lithograph,Print,Drawings & Prints,1946-07-11,36.5,24.2
 Antelopes from The Joy of Ornament,Robert Kushner,(American),(male),(1949),(0),1980,Etching and aquatint from a portfolio of 17 etching and aquatints (six with drypoint) and three drypoints (two with aquatint),Print,Drawings & Prints,1987-05-14,23.1,10.1
 "Poster protesting the appointment of Gonzalo N. Santos as Governor of the State of San Luis Potosí in Mexico ('La juventud de Mexico se opone a la resurrecion del mas tenebroso politico Gonzalo N. Santos, conocido como un criminal sanguinario, ...')",Leopoldo Méndez,(Mexican),(male),(1902),(1969),1943,"Linoleum cut with letterpress, printed in color",Print,Drawings & Prints,1944-09-27,29.8,40.9
@@ -310,7 +310,7 @@ The Couple,José Guadalupe Posada,(Mexican),(male),(1852),(1913),,Relief engravi
 Two Reclining Nudes on Rug from Ten Lithographs by Ten Artists,Philip Pearlstein,(American),(male),(1924),(2022),1971,One from a portfolio of ten lithographs,Print,Drawings & Prints,1989-01-18,54.0,76.2
 Untitled Etching #1 (First Version),Barnett Newman,(American),(male),(1905),(1970),"1969, published 1976",Etching and aquatint,Print,Drawings & Prints,1987-01-15,37.9,60.6
 Untitled from American Abstract Artists,Louis Schanker,(American),(male),(1903),(1981),1937,One from a portfolio of thirty-one lithographs,Print,Drawings & Prints,1987-01-15,23.2,18.0
-NO. 3 SOUTHERN COAST,Charlotte Schmidt,(German),(female),(0),(0),1956,Screenprint,Print,Drawings & Prints,1961-12-13,44.5,55.8
+NO. 3 SOUTHERN COAST,Charlotte Schmidt,(German),(female),,(0),1956,Screenprint,Print,Drawings & Prints,1961-12-13,44.5,55.8
 Untitled from Artifacts at the End of a Decade,Wenda Von Weise,(American),(female),(1941),(0),1981,,Print,Drawings & Prints,1987-01-15,,
 Pipe and Jug,Patrick Caulfield,(British),(male),(1936),(2005),(1973),Screenprint,Print,Drawings & Prints,1976-11-10,,
 Untitled,Sheldon Machlin,(American),(male),(1918),(1975),1966,"Relief process, printed in black",Print,Drawings & Prints,1966-11-03,43.3,32.5
@@ -320,7 +320,7 @@ Circus from Eastern European Prints,Béla Kondor,(Hungarian),(male),(1931),(1972
 Pumping Shape,Carroll Dunham,(American),(male),(1949),(0),1990,Etching,Print,Drawings & Prints,1990-12-31,35.3,47.6
 Untitled,Burhan Dogancay,(Turkish),(male),(1929),(2013),1969,Lithograph,Print,Drawings & Prints,1974-01-10,48.2,38.6
 War,Henri Rousseau,(French),(male),(1844),(1910),published January 1895,Lithograph,Print,Drawings & Prints,1943-11-04,22.2,33.1
-Textures from Phenomena (Les Phénomènes),Jean Dubuffet,(French),(male),(1901),(1985),1959,Portfolio of eighteen lithographs,Print,Drawings & Prints,1965-11-09,0.0,0.0
+Textures from Phenomena (Les Phénomènes),Jean Dubuffet,(French),(male),(1901),(1985),1959,Portfolio of eighteen lithographs,Print,Drawings & Prints,1965-11-09,,
 Color separation for Figure in Red (Personnage au costume rouge),Jean Dubuffet,(French),(male),(1901),(1985),1961,Lithograph,Print,Drawings & Prints,1965-11-09,,
 Classified Ads with Space from Newspaper Book,Chryssa,(American),(female),(1933),(2013),1962,One from a series of twenty-two offset photolithographs,Print,Drawings & Prints,1967-02-09,73.7,56.8
 Figure and Foliage II from Untitled Suite,Harold Altman,(American),(male),(1924),(2003),1961,One from a series of eleven lithographs,Print,Drawings & Prints,1967-12-13,52.6,70.7
@@ -349,7 +349,7 @@ Winter Scene,Alex Katz,(American),(male),(1927),(0),1951-52,Oil on board,Paintin
 Three Musicians,Pablo Picasso,(Spanish),(male),(1881),(1973),"Fontainebleau, summer 1921",Oil on canvas,Painting,Painting & Sculpture,1949-03-24,200.7,222.9
 The 14th of July at Le Havre,Raoul Dufy,(French),(male),(1877),(1953),1907,Oil on canvas,Painting,Painting & Sculpture,1995-02-06,81.0,50.2
 White Curve VII,Ellsworth Kelly,(American),(male),(1923),(2015),1976,Oil on canvas,Painting,Painting & Sculpture,1995-02-06,233.7,233.7
-Harlequin,Pablo Picasso,(Spanish),(male),(1881),(1973),"Paris, late 1915",Oil on canvas,Painting,Painting & Sculpture,1950-01-27,183.5,-1.0
+Harlequin,Pablo Picasso,(Spanish),(male),(1881),(1973),"Paris, late 1915",Oil on canvas,Painting,Painting & Sculpture,1950-01-27,183.5,
 "Abstract Painting, Red",Ad Reinhardt,(American),(male),(1913),(1967),1952,Oil on canvas,Painting,Painting & Sculpture,1991-04-08,274.3,101.9
 Painting,Louis Cane,(French),(male),(1943),(2024),1975,Oil on unstretched and adhered canvas pieces,Painting,Painting & Sculpture,1976-03-09,243.4,331.9
 Hands,David Alfaro Siqueiros,(Mexican),(male),(1896),(1974),1949,Enamel on board,Painting,Painting & Sculpture,1950-04-24,122.2,100.0
@@ -375,7 +375,7 @@ Space Modulator L3,László Moholy-Nagy,(American),(male),(1895),(1946),1936,"Oi
 The Riot,Umberto Boccioni,(Italian),(male),(1882),(1916),1911 or after,Oil on canvas,Painting,Painting & Sculpture,1957-12-04,50.5,50.5
 "Woman, Old Man, and Flower (Weib, Greis und Blume)",Max Ernst,(French),(male),(1891),(1976),"Paris 1923, Eaubonne 1924",Oil on canvas,Painting,Painting & Sculpture,1937-12-03,96.5,130.2
 West 23rd,Jack Tworkov,(American),(male),(1900),(1982),1963,Oil on canvas,Painting,Painting & Sculpture,1963-05-07,152.6,203.3
-Head of a Faun,Pablo Picasso,(Spanish),(male),(1881),(1973),"January 24 - February 6, 1956",Enamel on tile,Painting,Painting & Sculpture,1956-10-09,-1.0,20.3
+Head of a Faun,Pablo Picasso,(Spanish),(male),(1881),(1973),"January 24 - February 6, 1956",Enamel on tile,Painting,Painting & Sculpture,1956-10-09,,20.3
 Hop and Skip,Shirley Jaffe,(American),(female),(1923),(2016),1987,Oil on canvas,Painting,Painting & Sculpture,1987-10-13,219.4,114.6
 Fulang-Chang and I,Frida Kahlo,(Mexican),(female),(1907),(1954),1937 (assembled after 1939),"In two parts, oil on board (1937) with painted mirror frame (added after 1939); and mirror with painted mirror frame (after 1939)
 ",Painting,Painting & Sculpture,1987-10-13,40.0,27.9
@@ -443,8 +443,8 @@ Memory of Ischia,Eugene Berman,(American),(male),(1899),(1972),1931,Oil on canva
 Blue Vase,René Pierre Tal-Coat,(French),(male),(1905),(1985),c. 1933,Oil on canvas,Painting,Painting & Sculpture,1979-12-11,14.5,18.3
 Bridgehampton Rose,Esteban Vicente,(American),(male),(1903),(2001),1970,Oil on canvas,Painting,Painting & Sculpture,1979-12-11,152.7,122.0
 Place for Awakenings,Jean Dubuffet,(French),(male),(1901),(1985),November 1960,"Pebbles, sand, and plastic paste on board",Painting,Painting & Sculpture,1968-10-08,88.4,115.2
-Radiant Green,Richard Anuszkiewicz,(American),(male),(1930),(2020),1965,Synthetic polymer paint on board,Painting,Painting & Sculpture,1967-10-18,40.6,-1.0
-The Back (I),Henri Matisse,(French),(male),(1869),(1954),"Paris, Couvent du Sacré Coeur, and Issy-les-Moulineaux, spring 1908-late 1909",Bronze,Sculpture,Painting & Sculpture,not_a_date,188.9,113.0
+Radiant Green,Richard Anuszkiewicz,(American),(male),(1930),(2020),1965,Synthetic polymer paint on board,Painting,Painting & Sculpture,1967-10-18,40.6,
+The Back (I),Henri Matisse,(French),(male),(1869),(1954),"Paris, Couvent du Sacré Coeur, and Issy-les-Moulineaux, spring 1908-late 1909",Bronze,Sculpture,Painting & Sculpture,,188.9,113.0
 Mother and Child,Jacob Epstein,(British),(male),(1880),(1959),1913,Marble,Sculpture,Painting & Sculpture,1938-02-17,43.8,43.1
 Song of the Vowels,Jacques Lipchitz,(American),(male),(1891),(1973),1931,Bronze,Sculpture,Painting & Sculpture,1963-01-08,37.0,26.0
 Developable Column,Antoine Pevsner,(French),(male),(1886),(1962),1942,Brass and oxidized bronze,Sculpture,Painting & Sculpture,1950-01-06,52.7,
@@ -456,7 +456,7 @@ Rope Piece,Robert Morris,(American),(male),(1931),(2018),1964,Painted rope and w
 Objects Arranged According to the Law of Chance,Jean (Hans) Arp,(French),(male),(1886),(1966),1930,Wood,Sculpture,Painting & Sculpture,1936-10-22,26.3,28.3
 Untitled,Robert Graham,(American),(male),(1938),(2008),1968,"Pigmented wax, fur, paper, balsa wood, foam, metal, plastic, glass, and wire in plexiglass vitrine",Sculpture,Painting & Sculpture,1975-04-01,25.4,50.8
 Untitled,"Nam June Paik, Otto Piene",(American) (German),(male) (male),(1932) (1928),(2006) (2014),1968,Manipulated television set and plastic pearls,Sculpture,Painting & Sculpture,2000-02-07,22.9,33.0
-Glass on a Table,Alexander Archipenko,(American),(male),(1887),(1964),1920,Painted wood and plaster,Sculpture,Painting & Sculpture,1953-04-07,41.0,-1.0
+Glass on a Table,Alexander Archipenko,(American),(male),(1887),(1964),1920,Painted wood and plaster,Sculpture,Painting & Sculpture,1953-04-07,41.0,
 Maiastra,Constantin Brancusi,(French),(male),(1876),(1957),1910-12,"White marble 22"" (55.9 cm) high, on three-part limestone pedestal 70"" (177.8 cm) high, of which the middle section is Double Caryatid, c. 1908",Sculpture,Painting & Sculpture,1953-04-07,233.7,32.4
 4 Blocks and Stones,Carl Andre,(American),(male),(1935),(2024),"Portland, Oregon, 1973","Concrete blocks, river stones, and geological specimens",Sculpture,Painting & Sculpture,1996-04-09,14.0,213.4
 Bricks and Bottles,Tony Cragg,(British),(male),(1949),(0),1982,Bricks and glass,Sculpture,Painting & Sculpture,1996-04-09,290.2,109.2
@@ -488,12 +488,12 @@ Cat Litter,Robert Gober,(American),(male),(1954),(0),1989,"Plaster, ink, and lat
 Ptolemy I,Jean (Hans) Arp,(French),(male),(1886),(1966),1953,Limestone,Sculpture,Painting & Sculpture,1964-06-15,106.7,50.8001016002
 The Sled,Joseph Beuys,(German),(male),(1921),(1986),1969,"Sled of wood and metal with felt, cloth straps, flashlight, wax, and cord",Sculpture,Painting & Sculpture,1970-11-10,35.2,90.5
 Intersection II,Richard Serra,(American),(male),(1938),(2024),1992-93,"Weatherproof steel, four identical conical sections",Sculpture,Painting & Sculpture,1998-05-01,400.0,1700.2
-Man with a Guitar,Jacques Lipchitz,(American),(male),(1891),(1973),1915,Limestone,Sculpture,Painting & Sculpture,1951-11-21,-1.0,26.7
+Man with a Guitar,Jacques Lipchitz,(American),(male),(1891),(1973),1915,Limestone,Sculpture,Painting & Sculpture,1951-11-21,,26.7
 Construction of Volume Relations,Georges Vantongerloo,(Belgian),(male),(1886),(1965),1921,Mahogany,Sculpture,Painting & Sculpture,1953-12-29,41.0,14.3
 Untitled,Bruce Nauman,(American),(male),(1941),(0),1965,"Fiberglass, polyester resin, and light",Sculpture,Painting & Sculpture,1978-10-10,254.0,50.3
 Hand Sculpture,Stanley William Hayter,(British),(male),(1901),(1988),1940,Plaster,Sculpture,Painting & Sculpture,1941-06-10,38.8,17.2
 Untitled,Robert Morris,(American),(male),(1931),(2018),1964,Molded sheet lead over wood with painted wood pieces and steel wire,Sculpture,Painting & Sculpture,1970-11-10,26.6,31.4
-Untitled,Rebecca Horn,(German),(female),(1944),(2024),1987,"Electrically powered assemblage with strainer, hammer, raw pigment, egg and metal brackets",Sculpture,Painting & Sculpture,1987-12-07,335.2806705613,0.0
+Untitled,Rebecca Horn,(German),(female),(1944),(2024),1987,"Electrically powered assemblage with strainer, hammer, raw pigment, egg and metal brackets",Sculpture,Painting & Sculpture,1987-12-07,335.2806705613,
 Robert's Shelflessness,Charles Long,(American),(male),(1958),(0),1998,Rubber and wood,Sculpture,Painting & Sculpture,1998-10-13,284.5,266.7
 Untitled,Joel Shapiro,(American),(male),(1941),(2025),1982,Cedar,Sculpture,Painting & Sculpture,1992-12-07,117.4,122.0
 Manuscript,Seymour Lipton,(American),(male),(1903),(1986),1961,Brazed bronze on monel metal,Sculpture,Painting & Sculpture,1965-06-08,153.3,213.7
@@ -521,8 +521,8 @@ Presence,Shirazeh Houshiary,(British),(female),(1955),(0),2000,Aquacryl with sil
 Piccole Note,Anna Maria Maiolino,(Brazilian),(female),(1942),(0),1985,Ink and colored ink on paper,Drawing,Drawings & Prints,2001-10-11,31.4326,21.9075
 Spotlight with Adapter for 3-Phase Light System (model 33 700),Roger Tallon,(French),(male),(1929),(2011),1972,Die-cast metal and aluminum,Design,Architecture & Design,2001-09-24,64.7701,
 Untitled,Luke Swank,(American),(male),(1890),(1944),1930-41,Gelatin silver print,Photograph,Photography,1941-01-16,33.7,26.3
-Balboa Terminals. Dry Dock #2. Looking east before flooding,Unidentified photographer,(),(),(0),(0),"April 4, 1916",Gelatin silver print,Photograph,Photography,1971-11-10,18.1,23.4
-"Floating crane ""Ajax"" test. Rotating 150 ton load at rated reach",Unidentified photographer,(),(),(0),(0),"September 8, 1915",Gelatin silver print,Photograph,Photography,1971-11-10,22.8,18.8
+Balboa Terminals. Dry Dock #2. Looking east before flooding,Unidentified photographer,,,,(0),"April 4, 1916",Gelatin silver print,Photograph,Photography,1971-11-10,18.1,23.4
+"Floating crane ""Ajax"" test. Rotating 150 ton load at rated reach",Unidentified photographer,,,,(0),"September 8, 1915",Gelatin silver print,Photograph,Photography,1971-11-10,22.8,18.8
 Bauhaus,Lyonel Feininger,(American),(male),(1871),(1956),"February 26, 1929",Gelatin silver print,Photograph,Photography,2001-06-14,17.8,21.6
 Ways of Worldly Wisdom: Arminius's Battle,Anselm Kiefer,(German),(male),(1945),(0),1978,Oil on woodcut on paper mounted on canvas,Painting,Painting & Sculpture,2002-04-08,196.2154,239.3955
 "1, 2, 3, 4, 5, 6",Susan Rothenberg,(American),(female),(1945),(2020),1988,"Oil on wood, six panels",Painting,Painting & Sculpture,2002-04-08,321.9456,117.1577
@@ -544,12 +544,12 @@ At the Winter Palace from Nigger Heaven (Illustration from Carl van Vechten's no
 Tree Costume for Indian Girls. Costume design for the ballet Pocahontas,Karl Free,(American),(male),(1903),(1947),c. 1936,"Tempera, ink, and pencil on board",Drawing,Drawings & Prints,1941-01-01,35.5601,27.9401
 Light in Far Field,Ellen Phelan,(American),(female),(1943),(0),2001,Oil on linen,Painting,Painting & Sculpture,2002-05-13,152.4003,228.6005
 The Forest (Backdrop). Set design for the ballet Transcendence,Franklin Chenault Watkins,(American),(male),(1894),(1972),1934,Watercolor on paper,Drawing,Drawings & Prints,1942-01-27,40.3,31.1150622301
-"Urusov and Group Photo of Camp, Krasnoe Selo",Unidentified photographer,(),(),(0),(0),"July 4-6, 1909",Gelatin silver printing-out-paper print,Photograph,Photography,2001-06-14,8.8,28.6
+"Urusov and Group Photo of Camp, Krasnoe Selo",Unidentified photographer,,,,(0),"July 4-6, 1909",Gelatin silver printing-out-paper print,Photograph,Photography,2001-06-14,8.8,28.6
 I Dreamt it Was OK to Draw Something I Haven't Dreamt About,Jim Shaw,(American),(male),(1952),(0),2002,Graphite and airbrush on paper,Drawing,Drawings & Prints,2002-10-15,56.5151,76.5177
 The Assassination,James Ensor,(Belgian),(male),(1860),(1949),1888,Etching,Print,Drawings & Prints,2002-11-20,17.7,23.8
 "Bank and Office Building, project, Stuttgart, Germany, Perspective","Paul Bonatz, Friedrich Eugen Scholer",(German) (German),(male) (male),(1877) (1874),(1956) (1949),1928,"Silver-gelatin photograph, color pencil and graphite",Architecture,Architecture & Design,2003-05-13,35.5,46.0
 "International Space Station Habitation Module, NASA, project, Geometric/proportioning presentation drawing for the ""Osmatic Membrane"" (OM) Scheme, Cross section",Michael Kalil,(American),(male),(1943),(1991),1983-1986,Ink and colored pencil on synthetic polymer sheet,Architecture,Architecture & Design,2003-10-02,76.5,76.5
-Pregnant Woman,Pablo Picasso,(Spanish),(male),(1881),(1973),"Vallauris, 1950","Plaster with metal armature, wood, ceramic vessel, and pottery jars",Sculpture,Painting & Sculpture,2003-12-08,-1.0,22.0
+Pregnant Woman,Pablo Picasso,(Spanish),(male),(1881),(1973),"Vallauris, 1950","Plaster with metal armature, wood, ceramic vessel, and pottery jars",Sculpture,Painting & Sculpture,2003-12-08,,22.0
 No Title (Publish the truth...),Raymond Pettibon,(American),(male),(1957),(0),1986,Ink on paper,Drawing,Drawings & Prints,2004-02-10,45.7201,29.8451
 The Couple,Alberto Giacometti,(Swiss),(male),(1901),(1966),1927 (cast late 1929 or early 1930),Bronze,Sculpture,Painting & Sculpture,2004-03-09,59.6901,36.8301
 Napali Kayak,"Murray Broom, Clear Blue Hawaii",(New Zealander) (),(male) (),(1955) (2001),(0) (0),2003,Carbon Kevlar and urethane,Design,Architecture & Design,2004-04-22,27.9401,55.8801
@@ -564,7 +564,7 @@ from Greek Mythology,Hideo Hagiwara,(Japanese),(male),(1913),(2007),,Woodcut,Pri
 Untitled from Biblical Themes,Ben-Zion,(American),(male),(1897),(1987),1950,"Etching and drypoint from a portfolio of eight etching and aquatints, three etching and drypoints, three drypoint and aquatints, three etchings, and one drypoint with chine collé",Print,Drawings & Prints,1951-11-21,34.8,44.7
 Untitled XIV from A Family of Acrobatic Jugglers,Jan Stussy,(American),(male),(1921),(1990),1970,One from a portfolio of nineteen lithographs (including cover),Print,Drawings & Prints,1974-01-10,25.9,21.0
 Untitled from Black Rainbow,Kinji Akagawa,(American),(male),(1940),(0),1965,One from a portfolio of eight lithographs,Print,Drawings & Prints,1974-01-10,,
-NanoSphere fabric,Schoeller Textil AG,(Swiss),(),(1868),(0),2003,Schoeller soft-shell fabric with NanoSphere finish,Design,Architecture & Design,2006-02-09,165.7353,130.8103
+NanoSphere fabric,Schoeller Textil AG,(Swiss),,(1868),(0),2003,Schoeller soft-shell fabric with NanoSphere finish,Design,Architecture & Design,2006-02-09,165.7353,130.8103
 Maculated Soil (Sol maculé) from Geography (Géographie) from Phenomena (Les Phénomènes),Jean Dubuffet,(French),(male),(1901),(1985),"1958, published 1960",One from a portfolio of ten lithographs,Print,Drawings & Prints,1965-11-09,39.5,30.6
 Repeat Dot Print,Hella Jongerius,(Dutch),(female),(1963),(0),2001,"Cotton, polyester and rayon",Design,Architecture & Design,2005-02-15,,143.5103
 I Still Use Brushes,Arman,(American),(male),(1928),(2005),1969,"Brushes embedded in plastic, in acrylic box",Painting,Painting & Sculpture,2008-03-10,203.2004,203.2004
@@ -618,7 +618,7 @@ Preparatory drawing for In Memory of My Feelings,Michael Goldberg,(American),(ma
 "Untitled (Charts, Lists and Drawings)",Matt Mullican,(American),(male),(1951),(0),1970-71,"Ink, marker, collage on paper, photocopies, and buttons on pinned on bulletin board",Drawing,Drawings & Prints,2007-04-10,243.8405,121.2852
 Failed Attack,Gerd Leufert,(Venezuelan),(male),(1914),(1998),1995,Ink on paper,Drawing,Drawings & Prints,2007-10-09,49.8476,66.0401
 Untitled from the series Written (Escritas),Mira Schendel,(Brazilian),(female),(1919),(1988),1964,Oil transfer drawing on paper,Drawing,Drawings & Prints,2009-10-07,47.0,23.0
-Gefeliciteerd (Congratulatory) Stamps,Experimental Jetset,(Dutch),(),(1997),(0),2001,Lithograph on self-adhesive paper,Design,Architecture & Design,2007-06-05,10.16,18.0975
+Gefeliciteerd (Congratulatory) Stamps,Experimental Jetset,(Dutch),,(1997),(0),2001,Lithograph on self-adhesive paper,Design,Architecture & Design,2007-06-05,10.16,18.0975
 Untitled,Kai Althoff,(German),(male),(1966),(0),(2004),"Pencil, colored pencil, and synthetic polymer paint with pressure-sensitive tape on paper",Drawing,Drawings & Prints,2005-05-10,26.0351,22.225
 A Line in Japan,Richard Long,(British),(male),(1945),(0),1980,"Lithographed poster, offset printed",Print,Drawings & Prints,2007-11-12,44.6,66.0
 Red from the series Line Form Color,Ellsworth Kelly,(American),(male),(1923),(2015),1951,Color-coated paper,Drawing,Drawings & Prints,2001-02-13,19.0,20.3
@@ -627,11 +627,11 @@ METRO-Net Transportable Subway Entrance (Crushed),Martin Kippenberger,(German),(
 Africa Revisited,Irma Boom,(Dutch),(female),(1960),(0),2001,"Book, offset printed with velour on abrasive fabric and suede",Design,Architecture & Design,2007-11-07,35.0,42.5
 "Brazilian Museum of Sculpture, São Paulo, Brazil (Scale model 1:125)",Paulo Mendes da Rocha,(Brazilian),(male),(1928),(2021),1987,Steel,Architecture,Architecture & Design,2008-02-06,12.0,100.0
 Untitled,"Gert Tobias, Uwe Tobias",(German) (German),(male) (male),(1973) (1973),(0) (0),2007,Mixed media on paper,Drawing,Drawings & Prints,2007-12-11,30.0,21.0
-"Emigre 59, Economy of Means","Zuzana Licko, Emigre Inc., Rudy VanderLans",(Slovak) (American) (Dutch),(female) () (male),(1961) (1987) (1955),(0) (0) (0),2001,Lithograph,Design,Architecture & Design,2006-02-09,0.0,0.0
+"Emigre 59, Economy of Means","Zuzana Licko, Emigre Inc., Rudy VanderLans",(Slovak) (American) (Dutch),(female) () (male),(1961) (1987) (1955),(0) (0) (0),2001,Lithograph,Design,Architecture & Design,2006-02-09,,
 Untitled,Steven Parrino,(American),(male),(1958),(2005),(1990),Synthetic polymer paint and pencil on gelatin-silver print,Drawing,Drawings & Prints,2007-12-11,40.9576,30.4801
-May Day Is Ours!,"Gardens Media Group, Cape Town",(),(),(0),(0),1989,Series of five screenprinted posters,Print,Drawings & Prints,2007-11-12,,
+May Day Is Ours!,"Gardens Media Group, Cape Town",,,,(0),1989,Series of five screenprinted posters,Print,Drawings & Prints,2007-11-12,,
 Untitled from the series Written (Escritas),Mira Schendel,(Brazilian),(female),(1919),(1988),1965,Oil transfer drawing on paper,Drawing,Drawings & Prints,2009-10-07,47.0,23.0
-Head of Jake,Frank Auerbach,(British),(male),(1931),(2024),2006-07,Oil on canvas,Painting,Painting & Sculpture,2008-03-10,-1.0,55.9
+Head of Jake,Frank Auerbach,(British),(male),(1931),(2024),2006-07,Oil on canvas,Painting,Painting & Sculpture,2008-03-10,,55.9
 Untitled,Anselm Kiefer,(German),(male),(1945),(0),n.d.,"Gouache on paper, with photo collage",Drawing,Drawings & Prints,2008-04-08,68.5801371603,49.5300990602
 Untitled from Six Prints,Liubov Popova,(Russian),(female),(1889),(1924),c. 1917–19,"Linoleum cut with watercolor and gouache additions from a portfolio of seven linoleum cuts (including title page), all with watercolor and gouache, and one with oil additions",Print,Drawings & Prints,2007-03-07,34.5,26.2
 Bringing Home the Evolution,Mary Beth Edelson,(American),(female),(1933),(2021),1976,Cut-and-pasted gelatin silver prints with crayon and transfer type on printed paper with typewriting on cut-and-taped paper,Drawing,Drawings & Prints,2010-02-10,52.0701041402,67.6276352553
@@ -670,26 +670,26 @@ Sky Machine,Yoko Ono,(American),(female),(1933),(0),1961/1966,"Stainless steel d
 Drawing for Flux Cabinet,George Maciunas,(American),(male),(1931),(1978),c. 1977,Ink on paper,Drawing,Drawings & Prints,2008-10-08,37.6,30.0
 Portrait of Robert Filliou,Arthur Köpcke,(German),(male),(1928),(1977),,(CONFIRM),Drawing,Fluxus Collection,2008-10-08,16.4,13.1
 One Out of Four Multiracial Dollars,Robert Filliou,(French),(male),(1926),(1987),c. 1965,"Plastic box, containing three plastic squares and a painted silver dollar",Sculpture,Drawings & Prints,2008-10-08,3.0,18.0
-Untitled (“A view of one of the acts put on by the USO Bing Crosby show to entertain the troops somewhere in France”),U.S. Army Signal Corps,(American),(),(0),(0),"September 22, 1944",Gelatin silver print,Photograph,Photography,1990-12-13,20.3,25.4
+Untitled (“A view of one of the acts put on by the USO Bing Crosby show to entertain the troops somewhere in France”),U.S. Army Signal Corps,(American),,,(0),"September 22, 1944",Gelatin silver print,Photograph,Photography,1990-12-13,20.3,25.4
 Square Reticularea 71/11,Gego (Gertrud Goldschmidt),(Venezuelan),(female),(1912),(1994),1971,"Stainless steel, copper, lead, and plastic",Sculpture,Painting & Sculpture,2016-09-21,205.0,140.0
 "Esprit vol. 4, no. 1","Rolf Harder, Rolf Harder & Associates Inc.",(Canadian) (),(male) (),(1929) (1978),(2013) (0),1993,"Magazine, offset printed",Design,Architecture & Design,2007-06-05,27.9401,21.59
 Untitled from Favorite Objects,Christian Boltanski,(French),(male),(1944),(2021),1998,One from a portfolio of 264 color Xeroxes,Print,Drawings & Prints,1999-05-20,27.4,21.1
 Untitled,Lee Bontecou,(American),(female),(1931),(2022),1963,Soot and aniline dye on muslin,Painting,Painting & Sculpture,2015-03-10,60.9601219202,55.8801117602
 One Year Danvic Cheese Spread,George Maciunas,(American),(male),(1931),(1978),1972-1973,,Sculpture,Drawings & Prints,2008-10-08,183.5153670307,45.0850901702
-Scores,Albert M. Fine,(American),(male),(1932),(1987),,,Print,Fluxus Collection,2008-10-08,0.0,0.0
+Scores,Albert M. Fine,(American),(male),(1932),(1987),,,Print,Fluxus Collection,2008-10-08,,
 Radio Hat,Joe Jones,(American),(male),(1934),(1993),,,Sculpture,Fluxus Collection,2008-10-08,19.0,19.0
 "Tracing on Mylar for Triptych for the Red Room, Center Panel (B)",Louise Bourgeois,(American),(female),(1911),(2010),1994,Ink,Drawing,Drawings & Prints,2010-06-09,57.0,102.0
-Flux Music Machine,Joe Jones,(American),(male),(1934),(1993),,,Sculpture,Fluxus Collection,2008-10-08,0.0,0.0
+Flux Music Machine,Joe Jones,(American),(male),(1934),(1993),,,Sculpture,Fluxus Collection,2008-10-08,,
 Clock,George Brecht,(American),(male),(1926),(2008),c. 1962-63,Metal barrel bolt and brass on painted wood with metal screws,Sculpture,Drawings & Prints,2008-10-08,9.1,16.2
-,Arthur Köpcke,(German),(male),(1928),(1977),,,Drawing,Fluxus Collection,2008-10-08,0.0,0.0
-Calcium For Your Breakfast,Anonymous,(),(),(0),(0),,,Sculpture,Fluxus Collection,2008-10-08,0.0,0.0
+,Arthur Köpcke,(German),(male),(1928),(1977),,,Drawing,Fluxus Collection,2008-10-08,,
+Calcium For Your Breakfast,Anonymous,,,,(0),,,Sculpture,Fluxus Collection,2008-10-08,,
 Untitled,Robert Barry,(American),(male),(1936),(0),1968,Stainless steel and nylon monofilament,Sculpture,Painting & Sculpture,2010-06-07,,
-Modular Cabinet (Ampersand),George Maciunas,(American),(male),(1931),(1978),1970,,Sculpture,Fluxus Collection,2008-10-08,0.0,0.0
+Modular Cabinet (Ampersand),George Maciunas,(American),(male),(1931),(1978),1970,,Sculpture,Fluxus Collection,2008-10-08,,
 Silicate Micro Crystals,"George Maciunas, George Brecht",(American) (American),(male) (male),(1931) (1926),(1978) (2008),1977,"Wood, glass, and plastic case, containing 42 cards with typewriting",Sculpture,Fluxus Collection,2008-10-08,7.6,12.8
-Modular Cabinet 7 M,George Maciunas,(American),(male),(1931),(1978),c. 1977,,Sculpture,Fluxus Collection,2008-10-08,0.0,0.0
-Modular Cabinet 12 T,George Maciunas,(American),(male),(1931),(1978),c. 1977,,Sculpture,Fluxus Collection,2008-10-08,0.0,0.0
-Modular Cabinet 11 V,George Maciunas,(American),(male),(1931),(1978),c. 1977,,Sculpture,Fluxus Collection,2008-10-08,0.0,0.0
-Modular Cabinet 10 R,George Maciunas,(American),(male),(1931),(1978),c. 1977,,Sculpture,Fluxus Collection,2008-10-08,0.0,0.0
+Modular Cabinet 7 M,George Maciunas,(American),(male),(1931),(1978),c. 1977,,Sculpture,Fluxus Collection,2008-10-08,,
+Modular Cabinet 12 T,George Maciunas,(American),(male),(1931),(1978),c. 1977,,Sculpture,Fluxus Collection,2008-10-08,,
+Modular Cabinet 11 V,George Maciunas,(American),(male),(1931),(1978),c. 1977,,Sculpture,Fluxus Collection,2008-10-08,,
+Modular Cabinet 10 R,George Maciunas,(American),(male),(1931),(1978),c. 1977,,Sculpture,Fluxus Collection,2008-10-08,,
 The Mythic Being,Adrian Piper,(American),(female),(1948),(0),1974,Newspaper in plastic sleeve,Drawing,Drawings & Prints,2009-10-07,43.1800863602,35.5600711201
 Mercury,"Tobias Frere-Jones, Jonathan Hoefler",(American) (American),(male) (male),(1970) (1970),(0) (0),1996,Digital typeface,Design,Architecture & Design,2010-09-15,,
 "Narrows' on Missisqoui River, Potton Hills in Distance",Alexander Henderson,(Canadian),(male),(1831),(1913),1865,Albumen silver print,Photograph,Photography,1971-11-10,33.0,46.3
@@ -717,8 +717,8 @@ Low Tide Wandering No. 12 (Wattwanderung No. 12) from Low Tide Wandering (Wattwa
 ",Print,Drawings & Prints,1976-01-08,28.1,21.7
 Piano Part V from Co-Action for Cello and Piano I,Yoriaki Matsudaira,(Japanese),(male),(1931),(0),1963,Ink on transparentized paper,Drawing,Drawings & Prints,2008-10-08,20.8,29.5
 Untitled,Paul (Pavel Mansurov) Mansouroff,(Russian),(male),(1896),(1984),(1967),Portfolio of 12 lithographs,Print,Drawings & Prints,1980-02-25,,
-Toluca from Album of Prints (Album de grabados),Jesús Morales Aguilar,(Mexican),(male),(0),(0),c. 1933,One from a portfolio of twenty-one woodcuts (including cover),Print,Drawings & Prints,,23.8,17.7
-A Corner (Un Rincón) from Album of Prints (Album de grabados),Jesús Morales Aguilar,(Mexican),(male),(0),(0),c. 1933,One from a portfolio of twenty-one woodcuts (including cover),Print,Drawings & Prints,,22.6,15.9
+Toluca from Album of Prints (Album de grabados),Jesús Morales Aguilar,(Mexican),(male),,(0),c. 1933,One from a portfolio of twenty-one woodcuts (including cover),Print,Drawings & Prints,,23.8,17.7
+A Corner (Un Rincón) from Album of Prints (Album de grabados),Jesús Morales Aguilar,(Mexican),(male),,(0),c. 1933,One from a portfolio of twenty-one woodcuts (including cover),Print,Drawings & Prints,,22.6,15.9
 Self Portrait,Louise Bourgeois,(American),(female),(1911),(2010),2006,Drypoint,Print,Drawings & Prints,2012-10-03,30.2,40.3
 Untitled (Tall Branch with Fourteen Leaves),Louise Bourgeois,(American),(female),(1911),(2010),2004,Drypoint,Print,Drawings & Prints,2012-02-07,30.0,15.0
 Body Parts,Donald Sultan,(American),(male),(1951),(0),1994,One from a series of fourteen aquatints,Print,Drawings & Prints,1994-01-25,16.3,21.5
@@ -728,14 +728,14 @@ Composition 16,Beauford Delaney,(American),(male),(1901),(1979),1954-56,Oil on c
 Plaque vélocipédique et médaille pour chien,Jacques Charlier,(Belgian),(male),(1939),(0),1973,103 painted metal tags,Sculpture,Drawings & Prints,2011-05-16,6.8,7.0
 Raymond Jacobs Photographer,"Ivan Chermayeff, Thomas Geismar, Robert Brownjohn, Raymond Jacobs",(American) (American) (American) (American),(male) (male) (male) (male),(1932) (1931) (1925) (1923),(2017) (0) (1970) (1993),1950s,Lithograph on glassine,Design,Architecture & Design,2011-12-06,27.9400558801,21.5900431801
 "Stendig, Inc.",Robert Brownjohn,(American),(male),(1925),(1970),1950s,Lithograph,Design,Architecture & Design,2011-12-06,10.6362712725,24.1300482601
-"Stranglers, Men in Black",Unidentified Designer,(),(),(0),(0),1981,Lithograph,Design,Architecture & Design,2012-02-09,55.8801117602,71.1201422403
-"Vibrators, Disco in Mosco",Unidentified Designer,(),(),(0),(0),c.1983,Lithograph,Design,Architecture & Design,2012-02-09,76.2001524003,50.8001016002
+"Stranglers, Men in Black",Unidentified Designer,,,,(0),1981,Lithograph,Design,Architecture & Design,2012-02-09,55.8801117602,71.1201422403
+"Vibrators, Disco in Mosco",Unidentified Designer,,,,(0),c.1983,Lithograph,Design,Architecture & Design,2012-02-09,76.2001524003,50.8001016002
 "Cancellation proof for Tick It, Tock It, Turn It True from The Blue Guitar",David Hockney,(British),(male),(1937),(2026),1977,Etching and aquatint from a portfolio of twenty etchings (eighteen with aquatint and one with drypoint),Print,Drawings & Prints,1978-10-17,42.3,34.2
 Surface Dis/Tension: Offset (RB),Mel Bochner,(American),(male),(1940),(2025),1968,Offset lithograph,Print,Drawings & Prints,2012-02-07,45.8,44.0
 Mettere al mondo il mondo from Insicuro Noncurante,Alighiero Boetti,(Italian),(male),(1940),(1994),"1966–75, published 1976",One from a portfolio of eighty two mixed media prints,Print,Drawings & Prints,2010-11-10,55.0,45.0
 Instructor,Oscar Tuazon,(American),(male),(1975),(0),2012,Wood and screws,Sculpture,Painting & Sculpture,2012-06-04,200.0,200.0
 "Trio for Ladder, Mud and Pebbles",George Maciunas,(American),(male),(1931),(1978),1962,Diazotype,Print,Drawings & Prints,2008-10-08,15.6,25.7
-Balkan Oteli from H-Fact: Hospitality/Hostility,Hüseyin Bahri Alptekin,(Turkish),(male),(1957),(2007),2003-07,Light box,Sculpture,Painting & Sculpture,not_a_date,76.2001524003,166.3703327407
+Balkan Oteli from H-Fact: Hospitality/Hostility,Hüseyin Bahri Alptekin,(Turkish),(male),(1957),(2007),2003-07,Light box,Sculpture,Painting & Sculpture,,76.2001524003,166.3703327407
 "Kibbutz Kfar Masaryk, Israel (Details)",Munio Gitai Weinraub,(Israeli),(male),(1909),(1970),1962-1964,Pencil and ink on vellum,Architecture,Architecture & Design,2012-06-07,35.5600711201,82.5501651003
 "Kibbutz Kfar Masaryk, Israel (Elevations)",Munio Gitai Weinraub,(Israeli),(male),(1909),(1970),1962-1964,Print,Architecture,Architecture & Design,2012-06-07,40.0050800102,72.0726441453
 "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketch)",Álvaro Siza,(Portuguese),(male),(1933),(0),1974-1977,Ballpoint pen on paper,Architecture,Architecture & Design,2012-06-07,29.0,21.0
@@ -743,10 +743,10 @@ Balkan Oteli from H-Fact: Hospitality/Hostility,Hüseyin Bahri Alptekin,(Turkish
 "Interior of Cafe, Londonderry, North Yorkshire",Paul Graham,(British),(male),(1956),(0),September 1981,"Inkjet print, printed 2011",Photograph,Photography,2011-05-18,20.3,25.3
 Untitled from Woodcuts,Thomas Schütte,(German),(male),(1954),(0),2011,One from a portfolio of nine woodcuts,Print,Drawings & Prints,2012-05-22,227.6,150.5
 Land Measurement by Drawing,Franz Erhard Walther,(German),(male),(1939),(0),1964,Fabric,Sculpture,Painting & Sculpture,2010-12-09,,
-Night Piece,Franz Erhard Walther,(German),(male),(1939),(0),1965,Fabric,Sculpture,Painting & Sculpture,2010-12-09,0.0,100.0
-Four Sides   Four Fields,Franz Erhard Walther,(German),(male),(1939),(0),1967,Fabric,Sculpture,Painting & Sculpture,2010-12-09,0.0,159.0
-Handpiece,Franz Erhard Walther,(German),(male),(1939),(0),1969,Fabric,Sculpture,Painting & Sculpture,2010-12-09,0.0,2.0
-Time    Place    Duration    Direction    Relation,Franz Erhard Walther,(German),(male),(1939),(0),1969,Fabric,Sculpture,Painting & Sculpture,2010-12-09,0.0,219.9898399797
+Night Piece,Franz Erhard Walther,(German),(male),(1939),(0),1965,Fabric,Sculpture,Painting & Sculpture,2010-12-09,,100.0
+Four Sides   Four Fields,Franz Erhard Walther,(German),(male),(1939),(0),1967,Fabric,Sculpture,Painting & Sculpture,2010-12-09,,159.0
+Handpiece,Franz Erhard Walther,(German),(male),(1939),(0),1969,Fabric,Sculpture,Painting & Sculpture,2010-12-09,,2.0
+Time    Place    Duration    Direction    Relation,Franz Erhard Walther,(German),(male),(1939),(0),1969,Fabric,Sculpture,Painting & Sculpture,2010-12-09,,219.9898399797
 Fractured Figure Sections,Robert Heinecken,(American),(male),(1931),(2006),1967,Gelatin silver prints on wood blocks,Sculpture,Photography,2013-10-24,20.9550419101,7.62001524
 Untitled,Monika Sosnowska,(Polish),(female),(1972),(0),2012,Steel and lacquer,Sculpture,Painting & Sculpture,2012-09-28,200.0254000508,194.9453898908
 Untitled (for Parkett no. 56),Vanessa Beecroft,(Italian),(female),(1969),(0),1999,One from a series of five screenprints,Print,Drawings & Prints,2000-11-09,50.4,70.2
@@ -789,10 +789,10 @@ Rundkeil-Verschluss für Feldgeschütze,Hugo van Werden,(German),(male),(1836),(
 Out-of-Round X,Richard Serra,(American),(male),(1938),(2024),1999,Paintstick on paper,Drawing,Drawings & Prints,2014-02-06,201.9304038608,200.6604013208
 Contact,Jiri Kovanda,(Czech),(male),(1953),(0),"September 3, 1979",Gelatin silver print,Photograph,Photography,2014-02-20,29.6863093726,20.9550419101
 "Atlas Building, Lima, Perú (Exterior perspective)","Walter Weberhofer Quintana, José Álvarez Calderón",(Peruvian) (Peruvian),(male) (male),(1923) (1894),(2003) (1980),c. 1953,Ink and watercolor on paper,Architecture,Architecture & Design,2015-03-02,50.5,49.0
-New York Continues to Grow 2,Jorge Rigamonti,(Venezuelan),(),(1940),(2008),1971,Cut and pasted lithograph,Architecture,Architecture & Design,2014-10-06,21.5900431801,23.4950469901
-Outing,Milan Knížák,(Czech),(male),(1940),(2026),1966,Photocopy,Print,Drawings & Prints,2008-10-08,0.0,0.0
+New York Continues to Grow 2,Jorge Rigamonti,(Venezuelan),,(1940),(2008),1971,Cut and pasted lithograph,Architecture,Architecture & Design,2014-10-06,21.5900431801,23.4950469901
+Outing,Milan Knížák,(Czech),(male),(1940),(2026),1966,Photocopy,Print,Drawings & Prints,2008-10-08,,
 "Headquarters for the Corporación Venezolana de Guayana (CVG-EDELCA), Ciudad Guayana, Venezuela (Plan)",Jesús Tenreiro-Degwitz,(Venezuelan),(male),(1936),(2007),1966,,Architecture,Architecture & Design,2015-03-02,67.3101346203,92.7101854204
-"Installation view with Waterdrop Painting (1961), Painting Until it Becomes Marble (1961), Painting to be Stepped On (1960) from Paintings & Drawings by Yoko Ono, AG Gallery, New York, July 17-30, 1961",,,,,,1961,Gelatin silver print,Photograph,Drawings & Prints,2008-10-08,0.0,0.0
+"Installation view with Waterdrop Painting (1961), Painting Until it Becomes Marble (1961), Painting to be Stepped On (1960) from Paintings & Drawings by Yoko Ono, AG Gallery, New York, July 17-30, 1961",,,,,,1961,Gelatin silver print,Photograph,Drawings & Prints,2008-10-08,,
 "Bag Piece (1964), performed during Perpetual Fluxfest, Cinematheque, New York, June 27, 1965",Yoko Ono,(American),(female),(1933),(0),1965,Gelatin silver print,Photograph,Drawings & Prints,2008-10-08,19.0,19.0
 "ATC (Argentina Televisora Color), Buenos Aires, Argentina","Flora Manteola, Javier Sánchez Gómez, Josefa Santos, Justo Solsona, Carlos Sallaberry, Rafael Viñoly, Felipe Tarsitano",(Argentine) (Argentine) (Argentine) (Argentine) (Argentine) (American) (Argentine),(female) (male) (female) (male) (male) (male) (male),(1936) (1936) (1931) (1931) (0) (1944) (0),(0) (0) (0) (0) (0) (2023) (0),1977,Ink on vellum,Architecture,Architecture & Design,2014-10-06,42.0,58.0
 "ATC (Argentina Televisora Color), Buenos Aires, Argentina","Flora Manteola, Javier Sánchez Gómez, Josefa Santos, Justo Solsona, Carlos Sallaberry, Rafael Viñoly, Felipe Tarsitano",(Argentine) (Argentine) (Argentine) (Argentine) (Argentine) (American) (Argentine),(female) (male) (female) (male) (male) (male) (male),(1936) (1936) (1931) (1931) (0) (1944) (0),(0) (0) (0) (0) (0) (2023) (0),1977,Ink on vellum,Architecture,Architecture & Design,2014-10-06,68.0,98.0
@@ -820,7 +820,7 @@ I Got Up...,On Kawara,(Japanese),(male),(1933),(0),1977,Ink and stamps on postca
 Puzzle Chair,Juan Baixas,(Chilean),(male),(1942),(0),1975,,Architecture,Architecture & Design,2014-10-06,,
 "Casa para el Poema del Ángulo Recto, Vilches, Chile",Smiljan Radić,(Chilean),(male),(1965),(0),2010–2012,Wood,Architecture,Architecture & Design,2015-03-02,60.0,120.0
 BRCK 3G WiFi Router,"Reginald Orton, Erik Hersman, Philip Walton",(New Zealander) (American) (American),(male) (male) (male),(1981) (1975) (1974),(0) (0) (0),2013,"ABS plastic, rubber, and electronic components",Design,Architecture & Design,2015-03-02,4.5,13.2
-"Album cover for Urszula Dudziak, Newborn Light",Eloise Vega Smith,(),(female),(0),(0),1974,Lithograph,Design,Architecture & Design,2015-03-02,31.7500635001,31.1150622301
+"Album cover for Urszula Dudziak, Newborn Light",Eloise Vega Smith,,(female),,(0),1974,Lithograph,Design,Architecture & Design,2015-03-02,31.7500635001,31.1150622301
 "Iglesia de San Pedro, Durazno, Uruguay","Leonardo Finotti, Eladio Dieste",(Brazilian) (Uruguayan),(male) (male),(1977) (1917),(0) (2000),2011,Chromogenic print,Architecture,Architecture & Design,2015-03-02,90.0,60.0
 Study for the Cycle of Architectural Landscapes no.3,Iakov Chernikhov,(Russian),(male),(1889),(1951),c.1930,"Gouache, pen and ink on paper",Architecture,Architecture & Design,2015-06-04,10.16002032,10.16002032
 Venus,Francisco Matto,(Uruguayan),(male),(1911),(1995),1968,Oil and wood,Sculpture,Painting & Sculpture,2015-06-01,97.7901955804,15.5
@@ -829,7 +829,7 @@ Venus,Francisco Matto,(Uruguayan),(male),(1911),(1995),1968,Oil and wood,Sculptu
 "Casa en el Aire, Mexico City, Mexico",Agustín Hernández Navarro,(Mexican),(male),(1924),(0),1991,Pencil on vellum,Architecture,Architecture & Design,2015-03-02,60.9601219202,90.1701803404
 Untitled (White Circle Collage),Yutaka Matsuzawa,(Japanese),(male),(1922),(2006),c. 1967,Cut-and-pasted paper on printed paper,Print,Drawings & Prints,2007-11-12,20.7,36.7
 The Whole Works,Yutaka Matsuzawa,(Japanese),(male),(1922),(2006),1971,,Print,Drawings & Prints,2007-11-12,,
-Navarro Ramon and Olivetti exhibition,Castell,(),(),(0),(0),1959,Lithograph,Design,Architecture & Design,2015-06-04,109.8552197104,73.9776479553
+Navarro Ramon and Olivetti exhibition,Castell,,,,(0),1959,Lithograph,Design,Architecture & Design,2015-06-04,109.8552197104,73.9776479553
 Name card for Albert Fine,George Maciunas,(American),(male),(1931),(1978),c. 1964,Offset card,Print,Drawings & Prints,2008-10-08,6.6,6.5
 Kingyo Kingdom,"Revital Cohen, Tuur Van Balen",(Israeli) (Belgian),(female) (male),(1981) (1981),(0) (0),2013,Cyanotype,Architecture,Architecture & Design,2015-06-04,49.0,69.0
 Circuit Stickers (Dandelion) (Painting demonstrating Circuit Sticker capabilities),"Jie Qi, Andrew ""Bunnie"" Huang",(American) (American),(female) (male),(1987) (1975),(0) (0),2014,"Ink on paper, felt, adhesive-backed circuits, and copper tape",Design,Architecture & Design,2015-06-04,27.9400558801,21.5900431801
@@ -849,27 +849,27 @@ Chequers (Furnishing fabric),Terence Conran,(British),(male),(1931),(2020),1951,
 Romeo a Julie,Peter Bankov,(Russian),(male),(1969),(0),2013,Screenprint,Design,Architecture & Design,2016-10-17,102.0764541529,72.0726441453
 Untitled (Traffic Lights),Jacqueline Groag,(British),(female),(1903),(1986),c.1952,Roller-printed rayon,Design,Architecture & Design,2015-10-19,269.2405384811,114.3002286005
 Untitled,Anna Boghiguian,(Egyptian),(female),(1946),(0),2011,Gouache and pencil on paper,Drawing,Drawings & Prints,2016-01-21,41.9100838202,29.5275590551
-Futurismo Artecrazia letterhead (Letter to Arthur Cohen),Unidentified Designer,(),(),(0),(0),1976,Letterpress,Design,Architecture & Design,2015-10-19,33.0200660401,21.9075438151
-Cartolina Futurista Tipo-Conguillo postcard (Addressed to Angelo Rognoni from Marinetti),Unidentified Designer,(Italian),(),(0),(0),1934,Letterpress,Design,Architecture & Design,2015-10-19,8.89001778,13.9700279401
+Futurismo Artecrazia letterhead (Letter to Arthur Cohen),Unidentified Designer,,,,(0),1976,Letterpress,Design,Architecture & Design,2015-10-19,33.0200660401,21.9075438151
+Cartolina Futurista Tipo-Conguillo postcard (Addressed to Angelo Rognoni from Marinetti),Unidentified Designer,(Italian),,,(0),1934,Letterpress,Design,Architecture & Design,2015-10-19,8.89001778,13.9700279401
 Stedelijk Museum letterhead,Willem Jacob Henri Berend Sandberg,(Dutch),(male),(1897),(1984),1961,Lithograph,Design,Architecture & Design,2015-10-19,29.2100584201,20.6375412751
-Nederland Nieuwrusland letterhead (Letter to Piet Zwart),Unidentified Designer,(Dutch),(),(0),(0),1931,Letterpress,Design,Architecture & Design,2015-10-19,28.8925577851,20.9550419101
+Nederland Nieuwrusland letterhead (Letter to Piet Zwart),Unidentified Designer,(Dutch),,,(0),1931,Letterpress,Design,Architecture & Design,2015-10-19,28.8925577851,20.9550419101
 Tent (igloo),Andrea Büttner,(German),(female),(1972),(0),2012,Woodcut,Print,Drawings & Prints,2016-06-08,137.7952755906,206.2166624333
 "German Pavilion, International Exposition, Barcelona, Spain (Sketch)",Ludwig Mies van der Rohe,(American),(male),(1886),(1969),1929 (redrawn 1955),Pencil on paper,Architecture,Architecture & Design,2015-10-19,10.16002032,12.382524765
 Untitled from 8 Dead Twos!! In a Wooden Box! That Person Did it! Not Me Not Me Not Me,Matt Mullican,(American),(male),(1951),(0),2007,One from a portfolio of eight aquatints with digital prints and chine collé,Print,Drawings & Prints,2015-10-27,37.5,28.6
 Cabaret Crusades: The Path to Cairo - Marionette #42,Wael Shawky,(Egyptian),(male),(1971),(0),2012,"Ceramic, fabric, steel, wood, and thread",Sculpture,Media and Performance,2015-12-11,,
 Untitled,,,,,,"June 9, 1962",Gelatin silver print,Photograph,Drawings & Prints,2008-10-08,,
-Untitled photograph from the Apollo 11 mission,NASA,(American),(),(0),(0),"July 20, 1969",Chromogenic print,Photograph,Photography,2016-01-28,19.0500381001,19.0500381001
+Untitled photograph from the Apollo 11 mission,NASA,(American),,,(0),"July 20, 1969",Chromogenic print,Photograph,Photography,2016-01-28,19.0500381001,19.0500381001
 Untitled,Lebbeus Woods,(American),(male),(1940),(2012),1970,Oil on canvas,Architecture,Architecture & Design,2016-02-22,101.6002032004,76.2001524003
 Pulling the Curtain on Marvin Gaye from God Love the Tragic Artist: Meg Cranston on the Life of Marvin Gaye,Meg Cranston,(American),(female),(1960),(0),1995,Ink on paper,Drawing,Drawings & Prints,2016-01-21,,
 Erich Comeriner stationery calling card,Erich Comeriner,(German),(male),(1907),(1978),1920s,Letterpress,Design,Architecture & Design,2015-10-19,7.62001524,10.79502159
 De Stijl NB stationery note paper,Theo van Doesburg,(Dutch),(male),(1883),(1931),1926,Letterpress,Design,Architecture & Design,2015-10-19,13.1762763526,20.7962915926
-De 8 Architectengroup stationery envelope,Unidentified Designer,(),(),(0),(0),c.1935,Letterpress,Design,Architecture & Design,2015-10-19,11.43002286,14.6050292101
-Untitled stationery envelope,Unidentified Designer,(),(),(0),(0),1930s,Letterpress,Design,Architecture & Design,2015-10-19,11.43002286,16.1925323851
+De 8 Architectengroup stationery envelope,Unidentified Designer,,,,(0),c.1935,Letterpress,Design,Architecture & Design,2015-10-19,11.43002286,14.6050292101
+Untitled stationery envelope,Unidentified Designer,,,,(0),1930s,Letterpress,Design,Architecture & Design,2015-10-19,11.43002286,16.1925323851
 Toyo Ito and Surroundings,"Toyo Ito, Toyo Ito & Associates, Architects",(Japanese) (Japanese),(male) (),(1941) (1971),(0) (0),2012,Ink on paper,Architecture,Architecture & Design,2016-06-10,21.0058420117,29.6926593853
 Nederlandsche Bond voor Kunst in Industrie letterhead,Piet Zwart,(Dutch),(male),(1885),(1977),c.1937,Letterpress,Design,Architecture & Design,2015-10-19,29.8450596901,20.9550419101
 Untitled (Uncle),Konrad Lueg,(German),(male),(1939),(1996),1965,Casein tempera on canvas,Painting,Painting & Sculpture,2016-06-06,125.0952501905,100.0127000254
 Untitled (white lines),Lauretta Vinciarelli,(Italian),(female),(1943),(2012),c.1973,Synthetic polymer paint on paper,Architecture,Architecture & Design,2016-06-10,57.1501143002,88.9001778004
-Untitled (gray and white lines),Lauretta Vinciarelli,(Italian),(female),(1943),(2012),1973,Synthetic polymer paint on paper,Architecture,Architecture & Design,2016-06-10,0.0,0.0
+Untitled (gray and white lines),Lauretta Vinciarelli,(Italian),(female),(1943),(2012),1973,Synthetic polymer paint on paper,Architecture,Architecture & Design,2016-06-10,,
 UPA: United Productions of America letterhead,Alvin Lustig,(American),(male),(1915),(1955),1949,Letterpress,Design,Architecture & Design,2015-10-19,27.9400558801,21.5900431801
 Pop (Priest) from Geroi i zhertvy revoliutsii. Oktiabr' 1917–1918 (Heroes and Victims of the Revolution: October 1917–1918),Vladimir Kozlinskii,(Russian),(male),(1891),(1967),1918,One from a portfolio of eighteen lithographs,Print,Drawings & Prints,2001-01-24,30.4,21.3
 Untitled,Gego (Gertrud Goldschmidt),(Venezuelan),(female),(1912),(1994),1980,Watercolor on paper,Drawing,Drawings & Prints,2016-09-21,50.5,65.5
@@ -880,10 +880,10 @@ Untitled,Virgilio Villalba,(Argentine),(male),(1925),(2009),1955,Oil on canvas,P
 "One for Violin Solo, performed during Neo-Dada in der Musik, Kammerspiele, Düsseldorf, June 16, 1962",Nam June Paik,(American),(male),(1932),(2006),"June 16, 1962",Gelatin silver print,Photograph,Drawings & Prints,2008-10-08,11.747523495,18.0975361951
 Will Burtin letterhead (Letter to Alvin Lustig),Will Burtin,(American),(male),(1908),(1972),1950,Letterpress,Design,Architecture & Design,2015-10-19,25.4000508001,18.4150368301
 Richard Meier letterhead,Richard Meier,(American),(male),(1934),(0),1960s-1970s,Letterpress,Design,Architecture & Design,2015-10-19,27.9400558801,21.5900431801
-Sibylle Kaldewey stationery envelope,Sibylle Möllering-Kaldewey,(German),(female),(0),(0),1980s,Letterpress,Design,Architecture & Design,2015-10-19,11.112522225,21.9075438151
-Paul Shaw letterhead (Letter to Elaine Lustig Cohen),Paul Shaw,(American),(male),(0),(0),2004,Lithograph,Design,Architecture & Design,2015-10-19,27.9400558801,21.5900431801
+Sibylle Kaldewey stationery envelope,Sibylle Möllering-Kaldewey,(German),(female),,(0),1980s,Letterpress,Design,Architecture & Design,2015-10-19,11.112522225,21.9075438151
+Paul Shaw letterhead (Letter to Elaine Lustig Cohen),Paul Shaw,(American),(male),,(0),2004,Lithograph,Design,Architecture & Design,2015-10-19,27.9400558801,21.5900431801
 "Šerefudin White Mosque, Visoko, Bosnia and Herzegovina (Section with study of natural light)",Zlatko Ugljen,(Bosnian),(male),(1929),(0),1969–1979,Colored pencil on diazotype,Architecture,Architecture & Design,2018-10-15,50.0,60.0
-Independence/Nakba,Fazal Sheikh,(American),(male),(1965),(0),2013,Inkjet print,Photograph,Photography,2016-05-19,0.0,40.6400812802
+Independence/Nakba,Fazal Sheikh,(American),(male),(1965),(0),2013,Inkjet print,Photograph,Photography,2016-05-19,,40.6400812802
 100 Years,Hans-Peter Feldmann,(German),(male),(1941),(2023),2001,Gelatin silver print,Photograph,Photography,2016-10-13,30.5,24.1
 100 Years,Yinka Shonibare,(British),(male),(1962),(0),2000,"Emulsion, acrylic on Dutch wax printed cotton textile, painted wall",Painting,Painting & Sculpture,2016-12-12,248.920497841,850.9017018034
 "The Architect's Studio, from the Zumthor Project / scores and images (Sheet: II 1)","Hans Danuser, Peter Zumthor",(Swiss) (Swiss),(male) (male),(1953) (1943),(0) (0),1988–1992,Gelatin silver print,Architecture,Architecture & Design,2017-02-14,50.0,40.0050800102
@@ -893,7 +893,7 @@ Untitled from Full Moon in Aries (Vollmond im Widder),Sigmar Polke,(German),(mal
 "Maquette for covers of the journal Die Rote Fahne (The red flag), vol. 11, no. 201, and the brochure Hurra! Der Panzerkreuzer A ist da! (Hooray! The battle cruiser A has arrived!)",John Heartfield (Helmut Herzfeld),(German),(male),(1891),(1968),1928,Gelatin silver print with ink,Drawing,Drawings & Prints,2018-03-21,21.0,15.5
 My House III,Christopher Wool,(American),(male),(1955),(0),2000,Screenprint,Print,Drawings & Prints,2017-03-30,101.4,76.0
 Stage (as seen on Afghan Star),Amalia Pica,(Argentine),(female),(1978),(0),2011,"Cardboard, wood, tape, and spotlight",Sculpture,Media and Performance,2017-10-26,25.4,279.4
-Breathing Machine,Lynn Hershman Leeson,(American),(female),(1941),(0),1965,"Wax, wig, glass eye, makeup, Plexiglas, wood, sensors, and sound",Sculpture,Media and Performance,2017-05-24,0.0,0.0
+Breathing Machine,Lynn Hershman Leeson,(American),(female),(1941),(0),1965,"Wax, wig, glass eye, makeup, Plexiglas, wood, sensors, and sound",Sculpture,Media and Performance,2017-05-24,,
 """StarckNaked"" dress","Philippe Starck, Wolford",(French) (Austrian),(male) (),(1949) (1950),(0) (0),1997,Nylon,Design,Architecture & Design,2017-10-16,151.1303022606,38.1000762002
 Painted Iron,Waltercio Caldas,(Brazilian),(male),(1946),(0),1978,Painted iron,Sculpture,Painting & Sculpture,2017-09-25,,
 Sentence Reflecting the Sentence that States the Reflection,Luis Camnitzer,(Uruguayan),(male),(1937),(0),1975,"Wood, glass, and brass",Sculpture,Painting & Sculpture,2017-09-25,,
@@ -903,7 +903,7 @@ Untitled (Parabolic Lens),Fred Eversley,(American),(male),(1941),(2025),1971,"3-
 Just for You,Ken Friedman,(American),(male),(1939),(0),1967,"Unknown object, wrapped in paper with rubber bands",Sculpture,Drawings & Prints,2008-10-08,3.17500635,18.0975361951
 Just for You,Ken Friedman,(American),(male),(1939),(0),1967,"Unknown object, wrapped in paper with rubber bands",Sculpture,Drawings & Prints,2008-10-08,4.5,10.16002032
 "Dutch Parliament Extension project, The Hague, Netherlands (Cutaway axonometric)","Rem Koolhaas, Elia Zenghelis, Zaha Hadid",(Dutch) (British) (British),(male) (male) (female),(1944) (1937) (1950),(0) (2026) (2016),1978,Gouache on paper,Architecture,Architecture & Design,2017-10-16,76.2001524003,112.0
-"Auto-Destructive Construction, Festival of Misfits, ICA, London, October 23- November 8, 1962",Gustav Metzger,(British),(),(1926),(2017),1962,Gelatin silver print,Photograph,Drawings & Prints,2008-10-08,35.4,27.7
+"Auto-Destructive Construction, Festival of Misfits, ICA, London, October 23- November 8, 1962",Gustav Metzger,(British),,(1926),(2017),1962,Gelatin silver print,Photograph,Drawings & Prints,2008-10-08,35.4,27.7
 "Unidentified performance, during Fully Guaranteed 12 Fluxus Concerts, New York, May 23, 1964",,,,,,1964,Gelatin silver print,Photograph,Drawings & Prints,2008-10-08,11.0,15.6
 Too Sweet,Henry Taylor,(American),(male),(1958),(0),2016,Acrylic on canvas,Painting,Painting & Sculpture,2017-12-12,365.7600000015,182.8803657607
 The Barbie Doll Drawings #1,Adrian Piper,(American),(female),(1948),(0),1967,Ink and pencil on notebook paper,Drawing,Drawings & Prints,2016-04-07,21.5900431801,13.9700279401
@@ -926,26 +926,26 @@ Flying Proletarian,Yuri Avvakumov,(Russian),(male),(1957),(0),1989–1991,Silksc
 Information Space,Andrei Savin,(Russian),(male),(1961),(0),1987,Etching,Architecture,Architecture & Design,2018-10-15,48.0,64.5
 Memorial for an Art World Body (Nevermore),Jo Baer,(American),(female),(1929),(2025),2009,Oil on unstretched canvas,Painting,Painting & Sculpture,2018-10-01,182.8803657607,153.0
 Trousers with Firecrackers,Huang Yong Ping,(French),(male),(1954),(2019),Xiamen 1987 (boxed in Paris 1999),"Trousers, firecrackers, black-and-white photograph and tape in cardboard box, in two parts",Sculpture,Painting & Sculpture,2018-10-01,80.0,104.1
-"CaixaForum Madrid, Spain (Site and concept model, scale 1:200)","Herzog & de Meuron, Basel",(Swiss),(),(1978),(0),2001–2003,"Wood, copper, and concrete",Architecture,Architecture & Design,2018-10-15,22.0,85.0
+"CaixaForum Madrid, Spain (Site and concept model, scale 1:200)","Herzog & de Meuron, Basel",(Swiss),,(1978),(0),2001–2003,"Wood, copper, and concrete",Architecture,Architecture & Design,2018-10-15,22.0,85.0
 Gray Gray Grid,Sigfredo Chacón,(Venezuelan),(male),(1950),(0),1993-2006,Acrylic on wood,Painting,Painting & Sculpture,2019-04-30,170.1803403607,139.7002794006
 Fleur lamp (model LP166),Pierre Chareau,(French),(male),(1883),(1950),c.1924,Brass and alabaster,Design,Architecture & Design,2018-10-15,22.8600457201,
 Panel from Let's Take Back Our Space: 'Female' and 'Male' Body Language as a Result of Patriarchal Structures,Marianne Wex,(German),(female),(1937),(2020),1977,"Gelatin silver prints, paper and ink on board",Photograph,Photography,2018-10-24,49.6,26.3
 "Broadside: Ben Kinmont, Bookseller California Book Fair 2016. Sebastopol: Antinomian Press, 2016. Broadside for the 2016 California International Antiquarian Book Fair at the Pasadena Convention Center",Ben Kinmont,(American),(male),(1963),(0),2016,"Broadside digitally printed in black ink with color reproductions of watercolor graphs, printed on glossy photo paper",Print,Drawings & Prints,2018-03-21,43.1800863602,27.9400558801
-"""This is my knight in shining armor"" from Colloquial and Sentimental Edifices, Die Lupe Cinema, Cologne, November 11, 1962",Dick Higgins,(American),(male),(1938),(1998),"November 11, 1962",Gelatin silver print,Photograph,Drawings & Prints,2008-10-08,0.0,0.0
+"""This is my knight in shining armor"" from Colloquial and Sentimental Edifices, Die Lupe Cinema, Cologne, November 11, 1962",Dick Higgins,(American),(male),(1938),(1998),"November 11, 1962",Gelatin silver print,Photograph,Drawings & Prints,2008-10-08,,
 Study for Memorial for an Art World Body (Nevermore),Jo Baer,(American),(female),(1929),(2025),2009,Inkjet print with pencil and ballpoint pen additions,Drawing,Drawings & Prints,2019-04-04,43.1800863602,27.9400558801
-"56 Leonard Street, New York, New York, USA","Herzog & de Meuron, Basel",(Swiss),(),(1978),(0),2006–2008,Paint and acrylic,Architecture,Architecture & Design,2018-10-15,26.0,4.5
-"56 Leonard Street, New York, New York, USA","Herzog & de Meuron, Basel",(Swiss),(),(1978),(0),2006–2008,Acrylic,Architecture,Architecture & Design,2018-10-15,31.0,5.0
+"56 Leonard Street, New York, New York, USA","Herzog & de Meuron, Basel",(Swiss),,(1978),(0),2006–2008,Paint and acrylic,Architecture,Architecture & Design,2018-10-15,26.0,4.5
+"56 Leonard Street, New York, New York, USA","Herzog & de Meuron, Basel",(Swiss),,(1978),(0),2006–2008,Acrylic,Architecture,Architecture & Design,2018-10-15,31.0,5.0
 «B'YÏ» N° 7 from Alphabet Bété,Frédéric Bruly Bouabré,(Ivorian),(male),(1923),(2014),1990,"Colored pencil, pencil, and ballpoint pen on board",Drawing,Drawings & Prints,2019-04-04,9.8,14.9
 «KOI» N° 167 from Alphabet Bété,Frédéric Bruly Bouabré,(Ivorian),(male),(1923),(2014),1991,"Colored pencil, pencil, and ballpoint pen on board",Drawing,Drawings & Prints,2019-04-04,9.8,14.9
 «LÉ» N° 214 from Alphabet Bété,Frédéric Bruly Bouabré,(Ivorian),(male),(1923),(2014),1991,"Colored pencil, pencil, and ballpoint pen on board",Drawing,Drawings & Prints,2019-04-04,9.8,14.9
-«RÉ» N° 284 from Alphabet Bété,Frédéric Bruly Bouabré,(Ivorian),(male),(1923),(2014),1991,"Colored pencil, pencil, and ballpoint pen on board",Drawing,Drawings & Prints,2019-04-04,9.8,-1.0
-Untitled,Unidentified photographer,(),(),(0),(0),1945,Gelatin silver print with ink,Photograph,Photography,2019-11-12,10.7,6.0
+«RÉ» N° 284 from Alphabet Bété,Frédéric Bruly Bouabré,(Ivorian),(male),(1923),(2014),1991,"Colored pencil, pencil, and ballpoint pen on board",Drawing,Drawings & Prints,2019-04-04,9.8,
+Untitled,Unidentified photographer,,,,(0),1945,Gelatin silver print with ink,Photograph,Photography,2019-11-12,10.7,6.0
 Nymph Dive (Rainbow),Chris Ofili,(British),(male),(1968),(0),2019,"Watercolor, oil pastel, gold leaf, and charcoal on paper",Drawing,Drawings & Prints,2019-12-11,39.3700787402,26.0350520701
 Scheibenhenkel (Disk handle) tea cup and saucer,Margarete (Grete) Heymann Loebenstein Marks,(British),(female),(1899),(1990),1930,Glazed stoneware,Design,Architecture & Design,2019-11-04,6.3500127,13.3350266701
 "Untitled, Chicago, Illinois",Gordon Parks,(American),(male),(1912),(2006),1957,"Inkjet print, printed 2019",Photograph,Photography,2019-11-12,50.8001016002,40.6400812802
 Chinese Landscape Tattoo No. 4,Huang Yan,(Chinese),(male),(1966),(0),1999,Chromogenic print,Photograph,Photography,2019-11-12,121.6027432055,149.8602997206
 "Block 22, New Belgrade, Serbia","Aleksandar Stjepanović, Božidar Janković, Branislav Karadžić",(Serbian) (Serbian) (Serbian),(male) (male) (male),(1931) (0) (1929),(0) (0) (2007),1968,seven architectural drawings,Architecture,Architecture & Design,2019-11-04,,
-"Épicerie Centrale, France",Unidentified photographer,(),(),(0),(0),c. 1915,Gelatin silver print,Photograph,Photography,2019-11-12,,
+"Épicerie Centrale, France",Unidentified photographer,,,,(0),c. 1915,Gelatin silver print,Photograph,Photography,2019-11-12,,
 "The October Revolution, 1917 (1917 Oktiabr’skaia revoliutsiia). Poster no. 17 of 25 from the series The History of the All-Union Communist Party (of Bolsheviks) in Posters (lstoria VKP[b] v plakatakh)",Aleksandr Rodchenko,(Russian),(male),(1891),(1956),c. 1926,Lithograph,Print,Drawings & Prints,2020-04-01,72.2,54.0
 Expo-show Buenos Aires,"Roland Shakespear, Guillermo González Ruiz",(Argentine) (Argentine),(male) (male),(1941) (1937),(0) (0),1970-1971,Lithograph,Design,Architecture & Design,2015-06-04,24.4475488951,71.7551435103
 Untitled from Nosotros no sabíamos (We Didn't Know),León Ferrari,(Argentine),(male),(1920),(2013),"1976–92, printed 2007",One from a series of eighty-two photocopies,Print,Drawings & Prints,2007-06-04,42.0,29.8
@@ -984,19 +984,19 @@ W. Broad Street from the portfolio Our Present Invention,Stanley Wolukau-Wanambw
 CandyLadyBlack (Located somewhere between when Millie Cox finally met Florida Evans),Amanda Williams,(American),(female),(1974),(0),2022,"Oil, alkyd medium, and matte varnish on wood panel",Painting,Painting & Sculpture,2022-09-20,50.8001016002,50.8001016002
 Hostage Video Still with Time Stamp,Seth Price,(American),(male),(1973),(0),2008,"Screen-print ink on archival polyester film, grommets",Sculpture,Painting & Sculpture,2022-09-20,,
 Untitled,Tony Smith,(American),(male),(1912),(1980),1963,Oil on canvas,Painting,Painting & Sculpture,2022-12-12,106.6802133604,121.9202438405
-Wiener Künstler-Postkarte Serie 5/4,Unknown artist,(),(),(0),(0),c. 1898,Lithograph,Design,Architecture & Design,1987-05-27,9.0,14.0
+Wiener Künstler-Postkarte Serie 5/4,Unknown artist,,,,(0),c. 1898,Lithograph,Design,Architecture & Design,1987-05-27,9.0,14.0
 Postcard,Carl Otto Czeschka,(Austrian),(male),(1878),(1960),1898,Lithograph,Design,Architecture & Design,1987-05-27,9.0,14.0
 Border Postcard: SD-TJ,"Estudio Teddy Cruz + Fonna Forman, Teddy Cruz, Fonna Forman",(American) (American) (American),() (male) (female),(2000) (1962) (1968),(0) (0) (0),2008,Photocollage,Architecture,Architecture & Design,2022-11-07,124.4602489205,246.380492761
 T4-7 (Tempe a Pailla),Eileen Gray,(British),(female),(1879),(1976),c. 1935,"Cut and pasted silver gelatin photographs and printed paper, gouache and pencil on board, plastic sheet, and metal staples",Architecture,Architecture & Design,2022-11-07,24.9936499873,32.5120650241
 Uncertain Theme – and Therefore Abstract,Rosa Barba,(Italian),(female),(1972),(0),2021,"Steel, glass, motor, and 35mm film",Sculpture,Media and Performance,2025-04-09,140.0,123.0
-Tropical Night,Christopher Cozier,(Trinidad and Tobagonian),(),(1959),(0),2006-14,"1 of 268 sheets with acrylic, ink, colored ink, pencil, and colored pencil on paper, some with stamped ink, stencil, solvent transfer, and cut-and-pasted colored and painted paper",Drawing,Drawings & Prints,2022-12-15,22.8600457201,17.7800355601
-Tropical Night,Christopher Cozier,(Trinidad and Tobagonian),(),(1959),(0),2006-14,"1 of 268 sheets with acrylic, ink, colored ink, pencil, and colored pencil on paper, some with stamped ink, stencil, solvent transfer, and cut-and-pasted colored and painted paper",Drawing,Drawings & Prints,2022-12-15,22.8600457201,17.7800355601
-Tropical Night,Christopher Cozier,(Trinidad and Tobagonian),(),(1959),(0),2006-14,"1 of 268 sheets with acrylic, ink, colored ink, pencil, and colored pencil on paper, some with stamped ink, stencil, solvent transfer, and cut-and-pasted colored and painted paper",Drawing,Drawings & Prints,2022-12-15,22.8600457201,17.7800355601
-Tropical Night,Christopher Cozier,(Trinidad and Tobagonian),(),(1959),(0),2006-14,"1 of 268 sheets with acrylic, ink, colored ink, pencil, and colored pencil on paper, some with stamped ink, stencil, solvent transfer, and cut-and-pasted colored and painted paper",Drawing,Drawings & Prints,2022-12-15,22.8600457201,17.7800355601
+Tropical Night,Christopher Cozier,(Trinidad and Tobagonian),,(1959),(0),2006-14,"1 of 268 sheets with acrylic, ink, colored ink, pencil, and colored pencil on paper, some with stamped ink, stencil, solvent transfer, and cut-and-pasted colored and painted paper",Drawing,Drawings & Prints,2022-12-15,22.8600457201,17.7800355601
+Tropical Night,Christopher Cozier,(Trinidad and Tobagonian),,(1959),(0),2006-14,"1 of 268 sheets with acrylic, ink, colored ink, pencil, and colored pencil on paper, some with stamped ink, stencil, solvent transfer, and cut-and-pasted colored and painted paper",Drawing,Drawings & Prints,2022-12-15,22.8600457201,17.7800355601
+Tropical Night,Christopher Cozier,(Trinidad and Tobagonian),,(1959),(0),2006-14,"1 of 268 sheets with acrylic, ink, colored ink, pencil, and colored pencil on paper, some with stamped ink, stencil, solvent transfer, and cut-and-pasted colored and painted paper",Drawing,Drawings & Prints,2022-12-15,22.8600457201,17.7800355601
+Tropical Night,Christopher Cozier,(Trinidad and Tobagonian),,(1959),(0),2006-14,"1 of 268 sheets with acrylic, ink, colored ink, pencil, and colored pencil on paper, some with stamped ink, stencil, solvent transfer, and cut-and-pasted colored and painted paper",Drawing,Drawings & Prints,2022-12-15,22.8600457201,17.7800355601
 An Oak Tree,Michael Craig-Martin,(British),(male),(1941),(0),1973,"Glass, water, metal brackets, and printed text",Sculpture,Painting & Sculpture,2023-04-03,15.0,46.0
 Coexistence,"Jan Kaplický, David Nixon",(Czech) (British),(male) (male),(1937) (1947),(2009) (0),1984,Collage,Architecture,Architecture & Design,2023-05-04,60.9601219202,83.8201676403
 Bird that Flies over America,Juan Francisco Elso,(Cuban),(male),(1956),(1988),1985,"Carved wood, branches, wax, jute thread, and basket elements",Sculpture,Painting & Sculpture,2023-06-06,172.7,370.8
-The Wonder Gaze (St. James Park),Ken Gonzales-Day,(American),(),(1964),(0),2006,"Inkjet print, printed 2023",Photograph,Photography,2023-05-24,101.6002032004,216.5354330709
+The Wonder Gaze (St. James Park),Ken Gonzales-Day,(American),,(1964),(0),2006,"Inkjet print, printed 2023",Photograph,Photography,2023-05-24,101.6002032004,216.5354330709
 "Tangalle Bay Beach Hotel, Tangalle, Sri Lanka",Valentine Gunasekara,(Sri Lankan),(male),(1931),(2017),1969–1973,Board with pasted photographic prints,Architecture,Architecture & Design,2023-05-04,27.9400558801,21.5900431801
 "Jesuit Chapel, Colombo, Sri Lanka",Valentine Gunasekara,(Sri Lankan),(male),(1931),(2017),1960,Ink on paper,Architecture,Architecture & Design,2023-05-04,58.4201168402,91.4401828804
 Untitled,Anne Imhof,(German),(female),(1978),(0),2022,Acrylic on aluminum,Painting,Painting & Sculpture,2023-06-05,180.0,270.0
@@ -1028,8 +1028,8 @@ Screen Test,Mickalene Thomas,(American),(female),(1971),(0),2024,Screenprint wit
 Magnetic Memory,Ulla Wiggen,(Swedish),(female),(1942),(0),1968,Acrylic on board,Painting,Painting & Sculpture,2024-09-30,52.0,52.0
 The Death of Bessie Smith,Rose Piper,(American),(female),(1917),(2005),1947,Oil on canvas,Painting,Painting & Sculpture,2024-09-30,63.5001270003,76.2001524003
 "C from Untitled/""The history of modern painting, to label it with a phrase, has been the struggle against the catalogue""--Barnett Newman/(Monochrome Painting, 1988-1989)",Stephen Prina,(American),(male),(1954),(0),1991,"Ink wash on rag, barrier paper, and cardboard",Drawing,Drawings & Prints,2014-02-06,151.1,128.9
-"Hotel de Ville, Abidjan, Côte d'Ivoire",Henri Chomette,(French),(),(1921),(1995),1954-1956,Ink on paper,Architecture,Architecture & Design,2026-09-28,80.0,193.0
-"Hôtel de Ville, Abidjan, Côte d'Ivoire (Perspective of wedding hall)",Henri Chomette,(French),(),(1921),(1995),1954-1956,Ink on tracing paper,Architecture,Architecture & Design,2026-09-28,95.0,102.0
+"Hotel de Ville, Abidjan, Côte d'Ivoire",Henri Chomette,(French),,(1921),(1995),1954-1956,Ink on paper,Architecture,Architecture & Design,2026-09-28,80.0,193.0
+"Hôtel de Ville, Abidjan, Côte d'Ivoire (Perspective of wedding hall)",Henri Chomette,(French),,(1921),(1995),1954-1956,Ink on tracing paper,Architecture,Architecture & Design,2026-09-28,95.0,102.0
 "Villa Coque (Shell House), Abidjan, Côte d'Ivoire (Studies 1 and 2)",Jean Léon,(Ivorian),(male),(1937),(2002),c. 1981,"Colored marker, pen, and cut-and-taped tracing paper on paper",Architecture,Architecture & Design,2026-09-28,49.5,62.0
 "La Pyramide, Abidjan, Côte d'Ivoire",Rinaldo Olivieri,(Italian),(male),(1931),(1998),1968-1973,Gelatin silver print,Architecture,Architecture & Design,2026-09-28,18.0,24.0
 untitled sketches,Lauretta Vinciarelli,(Italian),(female),(1943),(2012),1996–2006,Drawing on paper,Architecture,Architecture & Design,2016-06-10,23.8125476251,15.8750317501
@@ -1046,17 +1046,17 @@ Light Tree,Nanda Vigo,(Italian),(female),(1936),(2020),1984–1985,"Painted meta
 "Iturbide Studio, Mexico City, Mexico",Mauricio Rocha,(Mexican),(male),(1965),(0),2017,Digital drawing,Architecture,Architecture & Design,2026-02-02,,
 "Anahuacalli Museum Expansion, Mexico City, Mexico","Mauricio Rocha, Rafael Gamo",(Mexican) (American),(male) (male),(1965) (1978),(0) (0),2021,Digital photograph,Architecture,Architecture & Design,2026-02-02,,
 "Thread Artists’ Residences & Cultural Center, Sinthian, Senegal",Toshiko Mori,(Japanese),(female),(1951),(0),2015,four digital drawings,Architecture,Architecture & Design,2026-02-02,,
-Gorges,Merrill Wagner,(),(),(0),(0),1986,"Casein, oil, and acrylic on slate blackboard, six fragments",Sculpture,Painting & Sculpture,2026-06-01,127.0002540005,609.6012192024
+Gorges,Merrill Wagner,,,,(0),1986,"Casein, oil, and acrylic on slate blackboard, six fragments",Sculpture,Painting & Sculpture,2026-06-01,127.0002540005,609.6012192024
 OFFICE 126 Dar (Metal Mesh Screen I) from the portfolio Four Five Six,Bas Princen,(Dutch),(male),(1975),(0),2025,Serigraph,Architecture,Architecture & Design,2026-02-02,41.9100838202,59.3726187452
 Nr. 22 Study (Mexico City) from the portfolio Four Five Six,Bas Princen,(Dutch),(male),(1975),(0),2025,Serigraph,Architecture,Architecture & Design,2026-02-02,41.9100838202,59.3726187452
 "Hard Disk Recovery III (Sim Lim Square, Singapore) from the portfolio Four Five Six",Bas Princen,(Dutch),(male),(1975),(0),2025,Serigraph,Architecture,Architecture & Design,2026-02-02,41.9100838202,59.3726187452
 "Community Forrest IV (Paro, Bhutan) from the portfolio Four Five Six",Bas Princen,(Dutch),(male),(1975),(0),2025,Serigraph,Architecture,Architecture & Design,2026-02-02,41.9100838202,59.3726187452
 "Fireworks, Cavallino I from the portfolio Four Five Six",Stefano Graziani,(Italian),(male),(1971),(0),2025,Serigraph,Architecture,Architecture & Design,2026-02-02,41.9100838202,59.3726187452
-"Glass Video Gallery, Groningen, The Netherlands",Bernard Tschumi,(),(male),(1944),(0),1990,Ink on paper,Architecture,Architecture & Design,2026-09-28,58.4201168402,78.7401574803
+"Glass Video Gallery, Groningen, The Netherlands",Bernard Tschumi,,(male),(1944),(0),1990,Ink on paper,Architecture,Architecture & Design,2026-09-28,58.4201168402,78.7401574803
 "PILARES Iztapalapa, Mexico City, Mexico (Roof plan)",Rozana Montiel,(Mexican),(female),(1972),(0),2022,drawing on four sheets of paper,Architecture,Architecture & Design,2026-09-28,56.1976123952,43.1800863602
 Zen for TV [MoMA exh copy TR195 Panasonic],Nam June Paik,(American),(male),(1932),(2006),,Altered television set,Sculpture,Drawings & Prints,2008-10-08,56.5151130302,39.3700787402
 "Otis, Acapulco, Guerrero, Mexico","César Béjar, Manuel Cervantes Céspedes",(Mexican) (Mexican),(male) (male),(1992) (1977),(0) (0),2024,Digital photograph,Architecture,Architecture & Design,2026-09-28,,
 "PILARES Iztapalapa, Mexico City, Mexico (Aerial view with street market)",Rozana Montiel,(Mexican),(female),(1972),(0),2022,Digital drawing,Architecture,Architecture & Design,2026-09-28,,
 "Faculty of Social Sciences, Obafemi Awolowo University, Ile-Ife, Nigeria",François-Xavier Gbré,(French),(male),(1978),(0),2025,Digital photograph,Architecture,Architecture & Design,2026-09-28,,
-"Acropole of Négritude, Dakar, Senegal, Photo of model",Henri Chomette,(French),(),(1921),(1995),c. 1974,Photograph and drawing,Architecture,Architecture & Design,2026-09-28,36.0,47.0
+"Acropole of Négritude, Dakar, Senegal, Photo of model",Henri Chomette,(French),,(1921),(1995),c. 1974,Photograph and drawing,Architecture,Architecture & Design,2026-09-28,36.0,47.0
 "PILARES Iztapalapa, Mexico City, Mexico","Sandra Perez Nieto, Rozana Montiel",() (Mexican),(female) (female),(0) (1972),(0) (0),2022,Seven digital photographs,Architecture,Architecture & Design,2026-09-28,,
