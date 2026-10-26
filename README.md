@@ -93,6 +93,8 @@ licenses/   데이터별 이용조건과 원 제공자 README·고지문
 
 ## 프로젝트 노트북
 
-`notebooks/project_template.ipynb` — 조별·개별 프로젝트용 빈칸 노트북(미션 0~4: 불러오기 → 구조 확인 → 빈칸 처리 → 그룹별 분석 → 그래프 → 해석). `___`을 채우며 진행하고, 파일마다 추천하는 (묶는 기준, 계산할 열) 짝이 첫머리 표에 있습니다.
+`notebooks/project_template.ipynb` — 조별·개별 프로젝트용 빈칸 노트북(미션 0~4(질문 틀·추천 짝·막히면 표 포함): 불러오기 → 구조 확인 → 빈칸 처리 → 그룹별 분석 → 그래프 → 해석). `___`을 채우며 진행하고, 파일마다 추천하는 (묶는 기준, 계산할 열) 짝이 첫머리 표에 있습니다.
 
 Colab에서 바로 열기: https://colab.research.google.com/github/daradarav86/bigdata/blob/main/notebooks/project_template.ipynb
+
+예시 완성본(교육·상담 진로): https://colab.research.google.com/github/daradarav86/bigdata/blob/main/notebooks/example_students.ipynb
