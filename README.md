@@ -21,6 +21,7 @@
 | 미술 | `art.csv` | 뉴욕현대미술관(MoMA) 소장품 | 1,050 × 13 | 미술, 디자인, 건축, 사진, 미술사 |
 | 관광·식품 | `tourism_food.csv` | 멕시코 관광도시 식당 평가 | 1,161 × 12 | 관광, 외식·조리, 식품, 서비스경영 |
 | 행정 | `administration.csv` | 18개국 거버넌스 지표 | 486 × 7 | 행정, 공무원, 정책, 법·정치외교 |
+| 천문 | `astronomy.csv` | 맨눈으로 보이는 별의 거리·밝기·색·분광형 | 936 × 11 | 천문, 우주과학, 물리, 지구과학, 항공우주 |
 
 수업 시간 예제용으로 `students_lesson.csv`(649 × 11, 결측 없음)가 따로 있습니다.
 
@@ -41,6 +42,7 @@
 | art.csv | 빈칸 확인·처리, 면적(높이×너비) 열 생성 | 분류별 평균 면적·작가 성별별 작품 수 막대
 | tourism_food.csv | 빈칸 확인·처리 | 가격대별 평균 음식 평가 막대
 | administration.csv | 결측과 빠진 연도 확인·처리 | 국가별 평균 정부효과성 막대·연도별 선
+| astronomy.csv | 빈칸 확인·처리, 광년 환산 열 생성 | 분광형 계열별 평균 색지수 막대 (같은 계열로 평균 절대 등급도 비교)
 
 ## Colab에서 불러오기
 
@@ -57,7 +59,7 @@ display(df.head())
 ## 폴더 구성
 
 ```
-data/       CSV 14개 (수업용 1, 프로젝트용 13), UTF-8 BOM
+data/       CSV 15개 (수업용 1, 프로젝트용 14), UTF-8 BOM
 guides/     파일별 안내: 원자료, 준비 기준, 열 설명, 수업용 가공, 배포 조건
 licenses/   데이터별 이용조건과 원 제공자 README·고지문
 ```
@@ -83,13 +85,15 @@ licenses/   데이터별 이용조건과 원 제공자 README·고지문
 | 미술 | The Museum of Modern Art (MoMA) Collection https://doi.org/10.5281/zenodo.23493633 | CC0 1.0, MoMA 출처 표시 요청. licenses의 원 README 유지 |
 | 관광·식품 | Ponce Medellín & González Serna, UCI Restaurant & consumer data https://doi.org/10.24432/C5DP41 | CC BY 4.0 |
 | 행정 | World Bank Worldwide Governance Indicators 2026 Update https://www.govindicators.org | CC BY 4.0 및 World Bank 데이터 이용조건 |
+| 천문 | HYG Star Database v4.4 (Hipparcos·Yale Bright Star·Gliese 통합) https://codeberg.org/astronexus/hyg | CC BY-SA 4.0, 가공본에도 동일조건. licenses의 고지문 유지 |
 
 - CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 - CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+- CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 - ODbL 1.0: https://opendatacommons.org/licenses/odbl/1-0/
 - CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
 
-저장소 전체에 하나의 데이터 라이선스를 적용하지 않습니다. 파일마다 원출처·가공 사실·각 이용조건을 유지하며, 원 제공자가 이 가공본이나 수업을 보증하거나 추천하지 않습니다. 자료 확인·수업용 준비일: 2026-10-11 (공학·컴퓨터·미술·관광식품·행정 2026-10-24).
+저장소 전체에 하나의 데이터 라이선스를 적용하지 않습니다. 파일마다 원출처·가공 사실·각 이용조건을 유지하며, 원 제공자가 이 가공본이나 수업을 보증하거나 추천하지 않습니다. 자료 확인·수업용 준비일: 2026-10-11 (공학·컴퓨터·미술·관광식품·행정 2026-10-24, 천문 2026-10-30).
 
 ## 프로젝트 노트북
 

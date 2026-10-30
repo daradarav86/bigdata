@@ -1,0 +1,30 @@
+HYG Star Database - license notice (astronomy.csv)
+
+Source: HYG Star Database v4.4, hyg_v44.csv.gz
+  https://codeberg.org/astronexus/hyg  (current)
+  https://github.com/astronexus/HYG-Database  (archive; v4.1)
+Retrieved: 2026-10-30
+SHA-256 of hyg_v44.csv.gz: 00b349893b9a53106dd488d8371e8d2fa586043e500bb3cdb8bff3931682197d
+
+License text of the HYG repository (LICENSE file):
+
+  This work is licensed under a
+  Creative Commons Attribution-ShareAlike 4.0 International License.
+  http://creativecommons.org/licenses/by-sa/4.0/
+
+HYG v4.0 and later are licensed CC BY-SA 4.0 (HYG v3.x and earlier: CC BY-SA 2.5),
+as stated in the repository's hyg/version-info.md.
+
+HYG combines the Hipparcos, Yale Bright Star and Gliese (nearby stars) catalogs.
+
+astronomy.csv is a modified subset of this database (selected stars and columns,
+one added column, some values blanked for teaching) and is distributed under the
+same license, CC BY-SA 4.0. The changes are listed in guides/astronomy.md.
+The HYG authors do not endorse this modified version.
+
+Credits for the underlying catalogs (as named by HYG):
+  - ESA 1997, The Hipparcos and Tycho Catalogues, ESA SP-1200.
+  - Hoffleit, D. & Warren, W. H. Jr., Bright Star Catalogue (Yale), 5th Revised Edition.
+  - Gliese, W. & Jahreiss, H., Catalogue of Nearby Stars (CNS3), 3rd edition.
+The terms of use of these upstream catalogs were not independently checked when
+this file was prepared; the license above is the one stated by the HYG project.

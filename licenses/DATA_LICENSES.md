@@ -12,4 +12,6 @@
 - computer.csv: Stack Overflow Annual Developer Survey 2025. ODbL 1.0(데이터베이스) https://opendatacommons.org/licenses/odbl/1-0/, 개별 내용 DbCL 1.0 https://opendatacommons.org/licenses/dbcl/1-0/. 가공본도 ODbL 1.0으로 배포하며, 이 파일을 다시 가공해 공개할 때도 ODbL을 유지합니다. Stack-Overflow-survey-NOTICE.txt 참고.
 - art.csv: MoMA Collection, CC0 1.0. https://creativecommons.org/publicdomain/zero/1.0/ MoMA의 요청에 따라 출처와 DOI(10.5281/zenodo.23493633)를 표시하고 수정 사실을 밝힙니다. MoMA-collection-original-README.md 참고.
 
+- astronomy.csv: HYG Star Database v4.4. CC BY-SA 4.0. https://creativecommons.org/licenses/by-sa/4.0/ 가공본도 같은 조건으로 배포하며, 이 파일을 다시 가공해 공개할 때도 CC BY-SA 4.0을 유지합니다. HYG-LICENSE-NOTICE.txt 참고.
+
 MovieLens와 Lahman의 원 README는 제공자의 재배포 조건에 따라 동봉했습니다. 저장소 전체를 하나의 무제한 데이터 라이선스로 표시하지 마세요.
