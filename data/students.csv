@@ -1,4 +1,4 @@
-﻿school,age,address,studytime,traveltime,schoolsup,activities,internet,higher,freetime,health,absences,G1,G2,G3
+﻿school,age,address,study_level,travel_level,school_support,activities,internet,higher_education,freetime,health,absences,score_1,score_2,final_score
 GP,18,U,2,2,yes,no,no,yes,3,3,4.0,0.0,11,11.0
 GP,17,U,2,1,no,no,yes,yes,3,3,2.0,9.0,11,11.0
 GP,15,U,2,1,yes,no,yes,yes,3,3,6.0,12.0,13,12.0
